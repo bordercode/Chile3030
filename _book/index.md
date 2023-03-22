@@ -54,7 +54,7 @@ Si encuentras el libro útil, puedes contribuir:
 
 
 
-Para mantenimiento y contribución a este proyecto editorial de código abierto es necesario seguir el  [Codigo de conducta](https://github.com/bordercode/Chile3030e/blob/main/codigo_de_conducta.md).
+Para mantenimiento y contribución a este proyecto editorial de código abierto es necesario seguir el  [Codigo de conducta](https://github.com/bordercode/Chile3030/blob/main/codigo_de_conducta.md).
 
 
 # Prefacio {-}
