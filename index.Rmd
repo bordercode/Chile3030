@@ -3,20 +3,19 @@ title: "No son 30 Pesos, son 30 años. Reflexiones a través de la fotografía s
 author: "José Luis Manzanares Rivera"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
-output: bookdown::epub_book
+output: bookdown::bs4_book
 always_allow_html: true
 documentclass: krantz
 monofont: "Source Code Pro"
 monofontoptions: "Scale=0.7"
-bibliography: Chilelibrary.bib
+bibliography: library.bib
 biblio-style: chicago-note-bibliography.csl
 link-citations: yes
 colorlinks: yes
 graphics: yes
-github-repo: bordercode/libroChile
 description: "Es un libro que documenta mediante la expresión grafica, el estallido social en Chile ocurrido en octubre de 2019"
 cover-image: "images/cover2.png"
-url: https//site here.app
+url: https://chile3030.netlify.app
 ---
 
 # Bienvenidos {-}
@@ -106,7 +105,7 @@ Pronto, los diversos sectores de la sociedad se sumaron al movimiento mostrando 
 Las manifestaciones, que alcanzaron una cobertura territorial general y al mismo tiempo surgieron espontáneamente sobre la geografía chilena, con expresiones culturales tan diversas como el emblemático cacerolazo popular; significaron acorde con el historiador Sergio Grez Toso, un repertorio de lucha descentralizado que mostró la debilidad del poder [@grezEstaVezPoder2019]. 
 
 
-Desde el mundo y en especial desde los pueblos Latinoamericanos se observó con gran atención el movimiento social popularmente denominado  “El despertar de Chile”, un país que constituye el ejemplo clásico en la región, de la implementación de reformas orientadas a fortalecer los mecanismos de mercado para el funcionamiento de la economía, reformas diseñadas y ejecutadas desde un entorno de dictadura militar en los años ochenta y que permitieron que este país se posicionara como el único país de América Latina catalogado como de muy alto desarrollo Humano y con el mayor nivel de ingreso per cápita de la región [@conceiccao2019human]. 
+Desde el mundo y en especial desde los pueblos Latinoamericanos se observó con gran atención el movimiento social popularmente denominado  “El despertar de Chile”, un país que constituye el ejemplo clásico en la región, de la implementación de reformas orientadas a fortalecer los mecanismos de mercado para el funcionamiento de la economía, reformas diseñadas y ejecutadas desde un entorno de dictadura militar en los años ochenta y que permitieron que este país se posicionara como el único país de América Latina catalogado como de muy alto desarrollo Humano y con el mayor nivel de ingreso per cápita de la región [@undpIncomeAveragesToday2019]. 
 
 No obstante, dada la magnitud del movimiento social que vivió Chile y su representación generalizada a lo largo del país, cabe preguntarnos, ¿hasta qué punto esos indicadores de avance y crecimiento son solo una expresión parcial de una realidad que alberga grandes brechas en la distribución? ¿Es que, acaso como sociedad no hemos sido capaces de implementar mecanismos de distribución adecuados que garanticen el bienestar, limiten los equilibrios territoriales y fomenten la convivencia armoniosa entre los individuos que integran esta sociedad? 
 

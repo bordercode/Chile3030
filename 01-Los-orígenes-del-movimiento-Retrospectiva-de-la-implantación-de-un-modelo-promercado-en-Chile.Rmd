@@ -92,7 +92,7 @@ El grado de indignación y escala de la protesta por medios escritos en contra d
 
 Ubicada en pleno centro de la ciudad de Santiago, en las inmediaciones del Palacio de la moneda, sobre la avenida Libertador Bernardo O´Higgins^[Esta avenida, ya tradicional en la ciudad de Santiago, es una arteria vial de reunión principal y confluencia de los diversos sectores de la sociedad], fué testigo, aúnque no del todo mudo, de la gran movilización de la población civil durante el estallido en octubre de 2019. 
 
-Un rasgo característico de la violenta respuesta que implementó el gabinete de presidente Piñera y que desató la conmoción de la opinión pública fue el uso de fuerzas especiales equipadas con armas que dispararon perdigones y balines contra las multitudes lo que resultó en más de 220 lesiones oculares en su mayoria en contra de jovénes [@alfredopenaDolorChile2019].
+Un rasgo característico de la violenta respuesta que implementó el gabinete de presidente Piñera y que desató la conmoción de la opinión pública fue el uso de fuerzas especiales equipadas con armas que dispararon perdigones y balines contra las multitudes lo que resultó en más de 220 lesiones oculares en su mayoria en contra de jovénes [@penaalfredoDolorChile2019].
 
 Un caso emblemático fue la mutilación brutal que significó la pérdida de ambos globos oculares del jovén de 21 años Gustavo Gatica durante una jornada violenta la tarde del 8 de noviembre de 2019, quien a consecunencia de los disparos brutales de los efectivos de carabineros perdería totalmente la vista. Un caso que fue ampliamente documentado y repudiado por los medios internacionales y que se volvió un símbolo de los abusos del poder derivado del manejo del conflicto cuyas acciones le imprimieron un claro tono de represión violenta.
 
@@ -124,7 +124,7 @@ Sebastían Piñera es emanado de una cultura empresarial, pro mercado,  con form
 
 Antecedentes que ciertamente contrastan con los deseos de menor desigualdad que las protestas sociales denotan.  Al parecer Sebastían Piñera fué percibido, por un segmento de la población con ideas radicales, como la encarnación del modelo económico causante de la polarización social.
 
-Al respecto escritores connotados del país sudamericano como Jorge Baradit, autor del clásico: Historia secreta de Chile,  declaraba. *“Piñera ha terminado por convertir el conflicto en una revuelta contra él”* [@mariakovacsJorgeBaradit2019].
+Al respecto escritores connotados del país sudamericano como Jorge Baradit, autor del clásico: Historia secreta de Chile,  declaraba. *“Piñera ha terminado por convertir el conflicto en una revuelta contra él”* [@kovacsmariaJorgeBaradit2019].
 
 ![Fuente: Cartel en calles del centro de Santiago, comuna de Providencia, región metropolitana](images/IMG_1971.jpg){width=100%}
 
@@ -151,7 +151,7 @@ Por ejemplo, en 2006, el movimiento conocido como” la marcha de los pingüinos
 
 Este movimiento, marcó un hito sobre el tema educativo, si bien el epicentro fue Santiago, la capital del país, el mensaje generó eco en las diversas regiones de Chile y solo 5 años después, en 2011, nuevamente se enciende la mecha del reclamo social  a partir del tema estudiantil, esta vez con el movimiento cuyos líderes hoy figuran como parte central en la estructura de gobierno con Gabriel Boric al frente, actual presidente de la nación sudamericana y expresidente de la  Federación de Estudiantes de la Universidad de Chile (FECh), durante el movimiento estudiantil de 2011, Camilla Vallejo actual Ministra Secretaria General de Gobierno de Chile, vicepresidenta de la (FECh) durante el movimiento estudiantil del 2011,  Giorgio Jackson  actual ministro de Desarrollo Social y Familia de Chile y presidente de la Federación de Estudiantes de la Universidad Católica de Chile (FEUC) durante el movimiento estudiantil de 2011. 
 
-De forma interesante la conciencia social se fue forjando en el periodo de transición a la democracia y expresiones populares desde distintos frentes como la música son fiel reflejo de este proceso que como una olla de presión, fue almacenando el potencial desplegado en octubre de 2019, o dicho de otra manera, citando al músico y poeta Luis Mauricio Redolés Bustos, "el estallido social  semejante a  un volcán; ese magma silencioso que está bajo la tierra y hace erupción producto de las contradicciones de clase" [@sebastiansaaEspecialChileDesperto2019]. 
+De forma interesante la conciencia social se fue forjando en el periodo de transición a la democracia y expresiones populares desde distintos frentes como la música son fiel reflejo de este proceso que como una olla de presión, fue almacenando el potencial desplegado en octubre de 2019, o dicho de otra manera, citando al músico y poeta Luis Mauricio Redolés Bustos, "el estallido social  semejante a  un volcán; ese magma silencioso que está bajo la tierra y hace erupción producto de las contradicciones de clase" [@saasebastianEspecialChileDesperto2019]. 
 
 Basta una mirada cautelosa sobre expresiones artísticas como la música, temas como la canción: El baile de los que sobran, del autor Jorge González, interpretada por el grupo Los Prisioneros, con su lanzamiento en el año 1986 que se volvió un clásico popular y que entre sus letras esconde un profundo sentimiento social que retrata las condiciones de un sistema educativo cuestionado, caracterizado por la inequidad y un paradigma indiferente ante la marginación.
 
@@ -239,7 +239,7 @@ En gran parte el tamaño de las marchas y el poder de convocatoria tuvo un compo
 
 ![Fuente: Mensaje sobre rotonda. Cruce de Av. Alberto Hurtado y Av. Libertador Bernardo O’Higgins, Ciudad de Santiago. noviembre 2019 “No + AFP, No +Robo”](images/IMG_2153.jpg){width=100%}
 
-El descontento sobre el sistema AFP es amplio entre la sociedad chilena (Condeza, 2021; Mesina, 2017) y encuentra sus orígenes en el esquema privado de inversión que se inicia por el Decreto Ley Nº 3.500, publicado en noviembre de 1980 [@joaquinEntreMarchasPlebiscitos2019]. 
+El descontento sobre el sistema AFP es amplio entre la sociedad chilena [@condezaFracasoSistemaAFP2021;  @mesinaChileAFP362017] y encuentra sus orígenes en el esquema privado de inversión que se inicia por el Decreto Ley Nº 3.500, publicado en noviembre de 1980 [@rozasbuguenoEntreMarchasPlebiscitos2019]. 
 
 De hecho, Chile se convirtió con este esquema en el primer país en implementar un sistema de pensiones privado, un claro elemento de la reforma económica del periodo de Pinochet, que como se ha documentado se basa en lo que se percibe con el experimento económico más radical del continente. 
 
@@ -255,7 +255,7 @@ En el centro del clamor social, sin duda, se sitúa el entramado económico y un
 ![Fuente: Cartel sobre barda, ciudad de Temuco, Región de la Araucanía, martes 12 de noviembre 2019. “Lucho por un mañana más justo y digno”, “Lo político es personal” ](images/IMG_1307.jpg){width=100%}
 
 El trabajo del historiador Martín Correa Cabrera en su obra más reciente: “Historia del despojo. El origen de la propiedad particular en el territorio mapuche”, 
-[@correacabreramartinHistoriaDespojoOrigen], proporciona evidencia fidedigna para comprender la ruta histórica de la concentración de la riqueza que hoy se vive en el país sudamericano y que se vincula con un mecanismo de privatizaciones que tiene sus raíces en un esquema colonizador apoyado por una elite de familias que desde el entramado político han tenido una posición de poder para “legitimar” la posesión de recursos estratégicos en detrimento del grueso de la sociedad y de forma evidente de los pueblos originarios. 
+[@correaHistoriaDespojoOrigen2021], proporciona evidencia fidedigna para comprender la ruta histórica de la concentración de la riqueza que hoy se vive en el país sudamericano y que se vincula con un mecanismo de privatizaciones que tiene sus raíces en un esquema colonizador apoyado por una elite de familias que desde el entramado político han tenido una posición de poder para “legitimar” la posesión de recursos estratégicos en detrimento del grueso de la sociedad y de forma evidente de los pueblos originarios. 
 
 ![Fuente: Cartel sobre barda en Ciudad de Temuco, región de la Araucanía, martes 12 de noviembre 2019.](images/IMG_1637.jpg){width=100%}
 
@@ -264,7 +264,7 @@ El cartel anterior, localizado sobre una barda en las calles de la ciudad de Tem
 La siguiente expresión da cuenta del descontento en el tema del manejo de los recursos hídricos. 
 En especial en una región como la Araucanía en la que se tiene una importante riqueza natural y existe una creciente injerencia del capital para la realización de proyectos hidroeléctricos cuyo impacto ambiental en el frágil ecosistema es actualmente un foco de cuestionamiento. 
 
-![Fuente: Mensaje sobre barda en Calle Lautaro, ciudad de Temuco, región de la Araucanía, martes 12 de noviembre 2019.  2019.](images/IMG_1233.jpg){width=100%}
+![Fuente: Mensaje sobre barda en Calle Lautaro, ciudad de Temuco, región de la Araucanía, martes 12 de noviembre 2019.](images/IMG_1233.jpg){width=100%}
 
 El tema de recursos naturales resultó una demanda en especial importante de la población en ciudades ubicadas en el centro sur de Chile.
 

@@ -13,9 +13,6 @@ bookdown::bs4_book:
         family: Roboto Mono
     bg: "#fefefe" #backgrounds
     fg: "#000000" #fonts
-  repo: 
-    base: https://github.com/bordercode/libroChile
-    branch: main
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex
