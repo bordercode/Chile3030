@@ -20,15 +20,10 @@ url: https://chile3030.netlify.app
 
 # Bienvenidos {-}
 
+Este es el sitio  enlinea del libro *No son 30 Pesos, son 30 años. Reflexiones a través de la fotografía sobre El despertar en Chile.*
 
-
-<img src="images/cover2.png" class="cover" width="250" height="328"/>Este es el sitio  enlinea del libro *No son 30 Pesos, son 30 años. Reflexiones a través de la fotografía sobre El despertar en Chile.*.
-
+<img src="images/cover2.png" class="cover" width="250" height="328"/>
 <hr>
-
-
-
-
 
 ## Contribuye al proyecto  {-}
 
@@ -36,15 +31,14 @@ Si encuentras el libro útil, puedes contribuir:
 
 - Compartiéndolo con tu equipo y redes. 
 
-- Comentando en medios digitales, por ejemplo, a través del hashtag *#30añosNo30pesos* en Twitter (véase nuestro Libro de visitas).
+- Comentando en medios digitales, por ejemplo, a través del hashtag *#3030* en Twitter.
 
 - Citándolo o enlazándolo.
 
 - Haciendo reseñas, por ejemplo, en Amazon o Goodreads
 
-- Haciendo preguntas o sugerencias sobre el contenido a través de GitHub o Twitter.
-
-- Puedes contribuir directamente comprando un ejemplar en **Amazon**
+- Disfruta la lectura comprando un ejemplar pagando desde un dólar ($1 USD) en [BlackDogPublish](https://insight4health.netlify.app/)
+Una  modalidad en donde tú fijas el precio. Por su puesto que siempre puedes leerlo **GRATIS** descargando una copia en formato PDF o epub.
 
 
 
