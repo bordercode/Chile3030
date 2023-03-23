@@ -53,11 +53,18 @@ Si encuentras el libro útil, puedes contribuir:
 
 
 ```{=html}
-<a href="https://www.dropbox.com/s/ercrum32noqpakp/Chile3030.epub?dl=0">
-<button class="btn btn-danger"><i class="fa fa-save"></i> Download epub file</button>
+<a href="https://www.dropbox.com/s/g9jz1nzh3nc2dns/Chile3030.pdf?dl=0">
+<button class="btn btn-danger"><i class="fa fa-save"></i> Download PDF file</button>
 </a>
 ```
 
+
+
+```{=html}
+<a href="https://www.dropbox.com/s/ercrum32noqpakp/Chile3030.epub?dl=0">
+<button class="btn btn-warning"><i class="fa fa-save"></i> Download epub file</button>
+</a>
+```
 
 
 

@@ -55,8 +55,8 @@ Si encuentras el libro útil, puedes contribuir:
 library(downloadthis)
 
 download_link(
-  link = "https://www.dropbox.com/s/ercrum32noqpakp/Chile3030.epub?dl=0",
-  button_label = "Download epub file",
+  link = "https://www.dropbox.com/s/g9jz1nzh3nc2dns/Chile3030.pdf?dl=0",
+  button_label = "Download PDF file",
   button_type = "danger",
   has_icon = TRUE,
   icon = "fa fa-save",
@@ -65,6 +65,20 @@ download_link(
 
 ```
 
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+library(downloadthis)
+
+download_link(
+  link = "https://www.dropbox.com/s/ercrum32noqpakp/Chile3030.epub?dl=0",
+  button_label = "Download epub file",
+  button_type = "warning",
+  has_icon = TRUE,
+  icon = "fa fa-save",
+  self_contained = FALSE
+)
+
+```
 
 
 
