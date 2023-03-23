@@ -35,10 +35,8 @@ Si encuentras el libro útil, puedes contribuir:
 
 - Citándolo o enlazándolo.
 
-- Haciendo reseñas, por ejemplo, en Amazon o Goodreads
-
-- Disfruta la lectura comprando un ejemplar pagando desde un dólar ($1 USD) en [BlackDogPublish](https://insight4health.netlify.app/)
-Una  modalidad en donde tú fijas el precio. Por su puesto que siempre puedes leerlo **GRATIS** descargando una copia en formato PDF o epub.
+- Disfruta la lectura comprando un ejemplar en: [BlackDogPublishing](https://insight4health.netlify.app/)
+También puedes descargar una copia **gratis** en formato PDF o epub.
 
 
 
