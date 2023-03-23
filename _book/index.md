@@ -52,8 +52,13 @@ Si encuentras el libro útil, puedes contribuir:
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 
 
+```{=html}
+<a href="https://drive.google.com/file/d/1yG52KT-e41T8u13qRx7KZ2QEqW2M3V3C/view?usp=sharing">
+<button class="btn btn-danger"><i class="fa fa-save"></i> Download epub file</button>
+</a>
+```
 
-Para mantenimiento y contribución a este proyecto editorial de código abierto es necesario seguir el  [Codigo de conducta](https://insight4health.netlify.app/).
+
 
 
 # Prefacio {-}
