@@ -29,7 +29,7 @@ Si encuentras el libro útil, puedes contribuir:
 
 - Compartiéndolo con tu equipo y redes. 
 
-- Comentando en medios digitales, por ejemplo, a través del hashtag *#3030* en Twitter.
+- Comentando en medios digitales, por ejemplo, a través del hashtag *#Chile3030* en Twitter.
 
 - Citándolo o enlazándolo.
 
