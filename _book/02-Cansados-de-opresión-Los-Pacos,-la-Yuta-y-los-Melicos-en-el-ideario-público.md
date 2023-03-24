@@ -80,11 +80,15 @@ Los sitios de potresta alrededor del país, se concentraron en las principales p
 
 Paulatinamente el centro de atención se dirigió hacia Piñera, quien, mediante un discurso, desfasado de la velocidad con la que avanzó la información, fue atendiendo la emergencia social. 
 
-Sebastián Piñera un mandatario que, teniendo una amplia y frutífera trayectoria en el sector financiero, había incursionado en la política con un elevado índice de aceptación, se ubicó a sí mismo en una trayectoria adversa al mostrar su incapacidad por desprenderse de ese lenguaje, definitivamente carente de empatía para con su pueblo. 
+Sebastián Piñera un mandatario que, teniendo una amplia y fructífera trayectoria en el sector financiero, había incursionado en la política con un elevado índice de aceptación, se ubicó a sí mismo en una trayectoria adversa al mostrar su incapacidad por desprenderse de ese lenguaje, definitivamente carente de empatía para con su pueblo. 
+
 La respuesta por parte de los manifestantes fue enfática y permitió retratar las grietas de un sistema económico que al parecer encontraba sus límites. 
 
 
 ![Fuente: Cartel en fachada de negocio, ciudad de Santiago, región metropolitana, noviembre de 2019. “Piñera aprende Chile no se vende"](images/IMG_1893.JPG){width=100%}
+
+
+La percepción popular sobre los vínculos del mandatario con una visión a favor de las prácticas extractivas, resultó en diversos mensajes distribuidos por toda la geografía chilena. Especialemente en el sur del país en el Wallmapu, como el pueblo mapuche denomina sus territorios ancenstrales, considerados sagrados, donde la actividad extractiva en sectores como el forestal es intensa y  se han documentado diversas formas de violencia incluidas la física, la ecológica y la simbólica  tal como lo muestran los trabajos de [@gonzalez20196] o [@montoya2014nuevas].  Estos procesos, que se avivan en el marco del reclamo general en el país ocurrido en octubre de 2019, denotan la presencia de la comunidad indígena  y una creciente capacidad de organización. 
 
 
 ![Fuente. Mensaje sobre fachada de negocio: Santa Isabel Cencosud ubicado en esquina Av. Gral. Carrera y av. Manuel Montt, ciudad de Temuco, región de la Araucanía, noviembre 2019.](images/IMG_1264.JPG){width=100%}
@@ -121,6 +125,14 @@ El ideario colectivo, a través de la historia de los movimientos sociales en Ch
 La popularidad de este canino creció a tal grado que los manifestantes han adoptado su imagen para simbolizar el repudio a militares y carabineros. La figura del negro mata pacos, resurgió en octubre de 2019 y diversos materiales se elaboraron y fueron incluidos como medio de identidad entre los jóvenes manifestantes. El siguiente cartel muestra este fenómeno.
 
 ![Fuente: Cartel sobre barda. Santiago, región metropolitana, Chile, noviembre 2019.](images/IMG_1585.JPG){width=100%}
+
+El "negro", como era conocido entre los círculos universitarios, se convirtió en un símbolo social genuino que ha trasciendido por su espontaneidad. Este ícono de resistencia social logra capturar el sentimiento de manifestantes en una  posición defensiva y a la vez transmite un mensaje de rechazo en contra de las expresiones de maltrato y abuso, frecuentemente presentes en actos públicos de protesta. 
+
+La creatividad que desplegaron los ciudadanos durante las protestas de **El despertar**, recoje una diversidad de expresiones que integra a grupos demográficos de sucesivas generaciones. Y muestra un denominador común con símbolos que han aparecido en otros movimientos de protesta de gran importancia a escala mundial, como el caso del "Loukanikos" un ícono canino presente en las notables protestas anti austeridad que tuvieron lugar en Grecia a inicios de la segnda década de este siglo en el continente Europeo. 
+
+Son precisamente este conjunto de elemntos los que dan cuenta de la extensión cultural de la protesta y los mecanismos diversificados de difusión de los mensajes que en el fondo tienen un carácter profundamente humano. 
+
+
 
 ![Fuente: Cartel sobre barda. Santiago, región metropolitana, Chile, noviembre 2019. "Nuestros corazones son del mismo tamaño que sus armas."](images/IMG_2411.JPG){width=100%}
 
