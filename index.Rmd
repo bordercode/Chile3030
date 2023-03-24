@@ -6,10 +6,8 @@ site: bookdown::bookdown_site
 output: bookdown::bs4_book
 always_allow_html: true
 documentclass: krantz
-monofont: "Source Code Pro"
-monofontoptions: "Scale=0.7"
 bibliography: library.bib
-biblio-style: chicago-note-bibliography.csl
+biblio-style: apalike
 link-citations: yes
 colorlinks: yes
 graphics: yes

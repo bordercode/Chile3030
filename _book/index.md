@@ -1,15 +1,13 @@
 --- 
 title: "No son 30 Pesos, son 30 años. Reflexiones a través de la fotografía sobre El despertar en Chile"
 author: "José Luis Manzanares Rivera"
-date: "2023-03-23"
+date: "2023-03-24"
 site: bookdown::bookdown_site
 output: bookdown::bs4_book
 always_allow_html: true
 documentclass: krantz
-monofont: "Source Code Pro"
-monofontoptions: "Scale=0.7"
 bibliography: library.bib
-biblio-style: chicago-note-bibliography.csl
+biblio-style: apalike
 link-citations: yes
 colorlinks: yes
 graphics: yes

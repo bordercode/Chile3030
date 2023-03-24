@@ -77,7 +77,7 @@ La participación de los diversos estratos de la sociedad fue un rasgo que carac
 De igual manera personajes públicos se sumaron a la protesta con expresiones radicales en clara rebeldía en contra del sistema, como fué el caso de la cantane Mon Laferte, quien através de la exposición corporal le comunicó al mundo su respaldo al movimiento social y promovió una dura crítica a los abusos en el manejo del conflico.
 
 
-![Fuente:  Cartel sobre pared, Ciudad de Santiago. noviembre 2019. “Tetal Libre Patria Libre”, “En Chile torturan violan y matan”.”](images/IMG_2385.jpg){width=100%}
+![Fuente:  Cartel sobre pared, Ciudad de Santiago. noviembre 2019. “Teta Libre Patria Libre”, “En Chile torturan violan y matan”.”](images/IMG_2385.jpg){width=100%}
 
 En conjunto a la movilización en las calles,  la organización social buscó informar sobre  campañas mediáticas y el manejo de la inforamción. 
 
