@@ -88,7 +88,12 @@ La respuesta por parte de los manifestantes fue enfática y permitió retratar l
 ![Fuente: Cartel en fachada de negocio, ciudad de Santiago, región metropolitana, noviembre de 2019. “Piñera aprende Chile no se vende"](images/IMG_1893.JPG){width=100%}
 
 
-La percepción popular sobre los vínculos del mandatario con una visión a favor de las prácticas extractivas, resultó en diversos mensajes distribuidos por toda la geografía chilena. Especialemente en el sur del país en el Wallmapu, como el pueblo mapuche denomina sus territorios ancenstrales, considerados sagrados, donde la actividad extractiva en sectores como el forestal es intensa y  se han documentado diversas formas de violencia incluidas la física, la ecológica y la simbólica  tal como lo muestran los trabajos de [@gonzalez20196] o [@montoya2014nuevas].  Estos procesos, que se avivan en el marco del reclamo general en el país ocurrido en octubre de 2019, denotan la presencia de la comunidad indígena  y una creciente capacidad de organización. 
+La percepción popular sobre los vínculos del mandatario con una visión a favor de las prácticas extractivas, resultó en diversos mensajes distribuidos por toda la geografía chilena. Especialemente en el sur del país en el Wallmapu, como el pueblo mapuche denomina sus territorios ancenstrales, considerados sagrados, donde la actividad extractiva en sectores como el forestal es intensa y  se han documentado diversas formas de violencia incluidas la física, la ecológica y la simbólica  tal como lo muestran los trabajos de [@gonzalez20196] o [@montoya2014nuevas]. 
+
+En esta región la actividad de corporaciones como la española ENDESA que opera la central hidroeléctrica Ralco, Colbún (con participación importante de la empresa ajaponesa Mitsui), Arauco (con importantes inversiones de la empresa sueca Stora Enso), opera varias plantaciones forestales y fábricas de celulosa y papel en la región o la empresa CMPC que tiene participación  de capital de la empresa sueca SCA también opera plantaciones forestales y fábricas de celulosa y papel en la región. 
+Son algunos ejemplos de actividad vinculada a la extracción y procesamiento de recursos naturales que han generado controversía, entre otros elementos por sus impactos en el ecosistema y las comunidades locales. 
+
+Estos procesos, que se avivan en el marco del reclamo general en el país ocurrido en octubre de 2019, denotan la presencia de la comunidad indígena  y una creciente capacidad de organización. 
 
 
 ![Fuente. Mensaje sobre fachada de negocio: Santa Isabel Cencosud ubicado en esquina Av. Gral. Carrera y av. Manuel Montt, ciudad de Temuco, región de la Araucanía, noviembre 2019.](images/IMG_1264.JPG){width=100%}
