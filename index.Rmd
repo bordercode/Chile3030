@@ -6,7 +6,7 @@ site: bookdown::bookdown_site
 output: bookdown::bs4_book
 always_allow_html: true
 documentclass: krantz
-bibliography: library.bib
+bibliography: library_v3.bib
 biblio-style: apalike
 link-citations: yes
 colorlinks: yes

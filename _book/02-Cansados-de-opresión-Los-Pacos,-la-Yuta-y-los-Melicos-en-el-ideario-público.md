@@ -48,7 +48,7 @@ La siguiente relación de hashtags es una muestra que representa la diversidad d
 La notable carga política que se observa en los mensajes encuentra su epicentro en el concepto de cambio. 
 Ante el desbordamiento popular y citando al historiador Sergio Grez Toso, se tuvo “un torpe y prepotente manejo del gobierno de Piñera, imbuido de la tradicional y despectiva actitud patronal en el trato a las clases populares”, [@grezEstaVezPoder2019]. 
 
-Así vemos que las redes sociales capturaron también por esta vía el sentimiento de la gente con tuis como: #TusManosTienenSangre, **#AbajoElGobierno, #QueRenuncienTodos, #GobiernoAbdica y #HoySale, #PiñeraNoTePerdono y [#DestitucionDePiñera](https://www.facebook.com/hashtag/destituciondepi%C3%B1era/?source=feed_text&epa=HASHTAG).[#RevoluciónAlienigena.](https://twitter.com/londrinaa_/status/1188572659535220737)**
+Así vemos que las redes sociales capturaron también por esta vía el sentimiento de la gente con tuis como: #TusManosTienenSangre, #AbajoElGobierno, #QueRenuncienTodos, #GobiernoAbdica y #HoySale, #PiñeraNoTePerdono y [#DestitucionDePiñera](https://www.facebook.com/hashtag/destituciondepi%C3%B1era/?source=feed_text&epa=HASHTAG).[#RevoluciónAlienigena.](https://twitter.com/londrinaa_/status/1188572659535220737)
 
 
 ![Fuente. Impresión sobre barda, Santiago, región metropolitana, noviembre 2019 ](images/IMG_2123.jpg){width=100%}
@@ -88,12 +88,24 @@ La respuesta por parte de los manifestantes fue enfática y permitió retratar l
 ![Fuente: Cartel en fachada de negocio, ciudad de Santiago, región metropolitana, noviembre de 2019. “Piñera aprende Chile no se vende"](images/IMG_1893.JPG){width=100%}
 
 
-La percepción popular sobre los vínculos del mandatario con una visión a favor de las prácticas extractivas, resultó en diversos mensajes distribuidos por toda la geografía chilena. Especialemente en el sur del país en el Wallmapu, como el pueblo mapuche denomina sus territorios ancenstrales, considerados sagrados, donde la actividad extractiva en sectores como el forestal es intensa y  se han documentado diversas formas de violencia incluidas la física, la ecológica y la simbólica  tal como lo muestran los trabajos de [@gonzalez20196] o [@montoya2014nuevas]. 
+La percepción popular sobre los vínculos del mandatario con una visión a favor de las prácticas extractivas, resultó en diversos mensajes distribuidos por toda la geografía chilena. 
 
-En esta región la actividad de corporaciones como la española ENDESA que opera la central hidroeléctrica Ralco, Colbún (con participación importante de la empresa ajaponesa Mitsui), Arauco (con importantes inversiones de la empresa sueca Stora Enso), opera varias plantaciones forestales y fábricas de celulosa y papel en la región o la empresa CMPC que tiene participación  de capital de la empresa sueca SCA también opera plantaciones forestales y fábricas de celulosa y papel en la región. 
-Son algunos ejemplos de actividad vinculada a la extracción y procesamiento de recursos naturales que han generado controversía, entre otros elementos por sus impactos en el ecosistema y las comunidades locales. 
 
-Estos procesos, que se avivan en el marco del reclamo general en el país ocurrido en octubre de 2019, denotan la presencia de la comunidad indígena  y una creciente capacidad de organización. 
+
+Especialemente en el sur del país en el Wallmapu, como el pueblo mapuche denomina sus territorios ancenstrales, considerados sagrados, donde la actividad extractiva en sectores como el forestal es intensa y se han documentado diversas formas de violencia incluidas la física, la ecológica y la simbólica  tal como lo muestran los trabajos de [@gonzalez20196] o [@montoyaNuevasEstrategiasMovimientos2014]. 
+
+En esta región, la actividad de corporaciones como la española ENDESA que opera la central hidroeléctrica Ralco, cuya actividad ha sido objeto de controversia desde su planificación hasta su operación.  Al respecto, el trabajo de investigación: "El conflicto Mapuche-Pehuenche y la construcción de la central Ralco: análisis de la disputa y el uso de la mediación" de Eduardo Silva [@silva2004conflicto], destaca la importancia de la mediación como herramienta para la resolución de conflictos.
+
+Colbún (con participación importante de la empresa a japonesa [Mitsui](https://www.mitsui.com/cl/es/business/index.html)), que opera la Central Hidroeléctrica Los Lagos: ubicada en la comuna de Curacautín, en la Región de La Araucanía, esta central tiene una capacidad instalada de 490 MW y se encuentra en operación desde el año 2008. La central utiliza las aguas del río Truful-Truful para generar energía eléctrica.[@montoyaNuevasEstrategiasMovimientos2014]. 
+
+Arauco (con importantes inversiones de la empresa sueca Stora Enso), opera varias plantaciones forestales y fábricas de celulosa y papel en la región o la empresa CMPC que tiene participación  de capital de la empresa sueca SCA también opera plantaciones forestales y tiene actividad de procesamiento de productos derivados. De hecho los polémicos proyectos de esta empresa incluyen plantaciones monocultivo de Pino y Eucalipto en territorio Mapuche lo que representa una funete activa de conflicto con implicaciones debido a los impactos ambientales, sociales y culturales de estas plantaciones.
+
+
+Desde el punto de vista amabiental por ejemplo, el reemplazo de especies nativas  ha alterado la biodiversidad y los ciclos narurales  en particular, las plantaciones monocultivo de pino y eucalipto en la región sur de Chile tienen un impacto adverso significativo en el ciclo hídrico[@navarroDesarrolloSostenibleEcoetnocidio2005] debido a su alta demanda de agua y su capacidad para reducir la infiltración de agua en el suelo, al adiconalmente afectan el entono al desplazar a especies de árboles nativos como el: Lenga, Coigüe o el Raulí.  
+
+Los casos anteriortes son algunos ejemplos de actividad vinculada a la extracción y procesamiento de recursos naturales que han generado controversía, entre otros elementos por sus impactos en el ecosistema y las comunidades locales. 
+
+Así mismo, estos procesos, que se avivan en el marco del reclamo general en el país ocurrido en octubre de 2019, denotan la presencia de la comunidad indígena  y una creciente capacidad de organización. 
 
 
 ![Fuente. Mensaje sobre fachada de negocio: Santa Isabel Cencosud ubicado en esquina Av. Gral. Carrera y av. Manuel Montt, ciudad de Temuco, región de la Araucanía, noviembre 2019.](images/IMG_1264.JPG){width=100%}
@@ -127,7 +139,7 @@ El siguiente mensaje denota el imapcto emocional que se vivió a partir de los l
 
 El ideario colectivo, a través de la historia de los movimientos sociales en Chile ha creado, símbolos, e íconos que en ocasiones de manera espontánea han surgido.  Es el caso del “negro mata pakos”, un perro que portaba un pañuelo rojo que se volvió popular durante las marchas de manifestación estudiantil de 2011. Famoso por ladrarle a los efectivos armados de la fuerza policial y por su actitud agresiva hacia los uniformados en los episodios de protesta.
 
-La popularidad de este canino creció a tal grado que los manifestantes han adoptado su imagen para simbolizar el repudio a militares y carabineros. La figura del negro mata pacos, resurgió en octubre de 2019 y diversos materiales se elaboraron y fueron incluidos como medio de identidad entre los jóvenes manifestantes. El siguiente cartel muestra este fenómeno.
+La popularidad de este canino creció a tal grado que los manifestantes han adoptado su imagen para simbolizar el repudio a militares y carabineros. La figura del "negro mata pacos", resurgió en octubre de 2019 y diversos materiales para difusión se elaboraron y fueron adoptados como rasgo de identidad entre los jóvenes manifestantes. El siguiente cartel muestra este fenómeno.
 
 ![Fuente: Cartel sobre barda. Santiago, región metropolitana, Chile, noviembre 2019.](images/IMG_1585.JPG){width=100%}
 
