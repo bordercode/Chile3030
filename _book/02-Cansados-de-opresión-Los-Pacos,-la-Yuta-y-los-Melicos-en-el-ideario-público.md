@@ -100,12 +100,12 @@ Colbún (con participación importante de la empresa a japonesa [Mitsui](https:/
 
 Arauco (con importantes inversiones de la empresa sueca Stora Enso), opera varias plantaciones forestales y fábricas de celulosa y papel en la región o la empresa [CMPC](https://ir.cmpc.com/Spanish/descripcion-general/la-compania/default.aspx) que tiene participación  de capital de la empresa sueca SCA también opera plantaciones forestales y tiene actividad de procesamiento de productos derivados. 
 
-De hecho, los polémicos proyectos de esta empresa incluyen plantaciones monocultivo de Pino y Eucalipto en territorio Mapuche lo que representa una fuente activa de conflicto con implicaciones debido a los impactos ambientales, sociales y culturales de estas plantaciones.
+De hecho, los polémicos proyectos de esta empresa incluyen plantaciones monocultivo de Pino y Eucalipto en territorio Mapuche lo que representa una fuente activa de conflicto con implicaciones adversas debido a los impactos ambientales, sociales y culturales de estas plantaciones.
 
 
 Desde el punto de vista amabiental por ejemplo, el reemplazo de especies nativas  ha alterado la biodiversidad y los ciclos narurales  en particular, las plantaciones monocultivo de pino y eucalipto en la región sur de Chile tienen un impacto adverso significativo en el ciclo hídrico[@navarroDesarrolloSostenibleEcoetnocidio2005] debido a su alta demanda de agua y su capacidad para reducir la infiltración de agua en el suelo. Adiconalmente afectan el entono al desplazar a especies de árboles nativos como el: Lenga, Coigüe o el Raulí.  
 
-Los casos anteriores son un ejemplos de actividad vinculada a la extracción y procesamiento de recursos naturales que han generado controversía,  entre otros elementos por sus impactos en el ecosistema y las comunidades locales, en una región del país que cuenta con una dotación de recursos naturales privilegiada
+Los casos anteriores son un ejemplos de actividad vinculada a la extracción y procesamiento de recursos naturales que han generado controversía,  entre otros elementos por sus impactos en el ecosistema y las comunidades locales, en una región del país que cuenta con una dotación de recursos naturales privilegiada.
 
 Así mismo, estos procesos, que se avivaron en el marco del reclamo general en el país ocurrido en octubre de 2019, denotan la presencia activa de la comunidad indígena  y una creciente capacidad de organización. 
 Las demandas del pueblo mapuche se detallan por los documentos de asesoría técnica parlamentaria [@meza-lopehandiamatiasPrincipalesDemandasMapuche2019] en un compendio realizado previo a los hechos sucitados durante el despertar de Chile e incluyen derechos políticos, Económicos, sociales y culturales. 
@@ -123,7 +123,7 @@ La siguiente imagen es una representación hecha en una de las aceras de la aven
 
 La tensión y repudio sobre la administración de Sebastián Piñera  pronto fue un denominador común a lo largo del territorio. El siguiente mensaje creado sobre triplay protector en las calles de Santiago, provee un enfático símbolo de lo que segmentos de la población consideraban una necesidad para emprender un dialogo que ya perfilaba un concenso, dirigido a la creación de una convención constituyente. 
 
-Eran estas las señales de una articulación de las diversas voces que convergerían en un llamado no sólo por la destitución de los miembros del gabinerte del presidente y al propio mandatario pero, se dirigían ya con un objetivo más claro, a la reformulación de la carta magna vigente producto del régimen dictatorial de Pinochet. 
+Eran estas las señales de una articulación de las diversas voces que convergerían en un llamado no sólo por la destitución de los miembros del gabinete del presidente y al propio mandatario pero, se dirigían ya con un objetivo más claro, a la reformulación de la carta magna vigente producto del régimen dictatorial de Pinochet. 
 
 ![Fuente: Mensaje sobre triplay protector, ciudad Santiago, Chile, Región metropolitana. noviembre 2019.](images/IMG_2175.JPG){width=100%}
 
@@ -133,9 +133,9 @@ La gama de actores sociales objeto de reclamo, incluyó a la iglesia, en particu
 
 ![Fuente: Mensajes sobre muro en Av. independencia y Pedro Valdivia, edificio de la municipalidad. Cudad de Valdivia, Región de los ríos, Chile, noviembre 2019.](images/IMG_1259.JPG){width=100%}
 
-Vemos de forma recurrente el acronimo ACAB, correspondiente a la frase inglesa “**A**ll **C**ops **A**re **B**astards”, que historicamente se ha asociado con las protestas sociales y crítica en contra de la represión popular [@canellasEsteticaMalPerformatividad2021]. Así mismo, se hace observa una actitud recriminante expresadas mediante declaraciones sobre el silencio de la iglesia. Sin embargo, en medio del legítimo clamor social en demandas concretas, comenzamos a percibir también, cómo elementos radicales del discurso de anarquía, comienzan a estar presentes, es precisamente este rasgo lo que incide en los episodios de violencia registrados entre los eventos de protesta sucitados durante el movimiento. 
+Vemos de forma recurrente el acronimo ACAB, correspondiente a la frase inglesa “**A**ll **C**ops **A**re **B**astards”, que historicamente se ha asociado con las protestas sociales y crítica en contra de la represión popular [@canellasEsteticaMalPerformatividad2021]. Así mismo, se observa una actitud recriminante expresada mediante declaraciones sobre el silencio de la iglesia. Sin embargo, en medio del legítimo clamor social en demandas concretas, comenzamos a percibir también, cómo elementos radicales del discurso de anarquía, comienzan a estar presentes, es precisamente este rasgo lo que incide en los episodios de violencia registrados entre los eventos de protesta sucitados durante el movimiento. 
 
-El siguiente mensaje denota el imapcto emocional que se vivió a partir de los lamentables sucesos en los que jovenes manifestantes fueron blanco de disparos que les causó la pérdida de globo ocular y otras lesiones graves. 
+El siguiente mensaje denota el impacto emocional que se vivió a partir de los lamentables sucesos en los que jovenes manifestantes fueron blanco de disparos que les causó la pérdida de globo ocular y otras lesiones graves. 
 
 
 ![Fuente: Impresión sobre barda. Santiago, región metropolitana, noviembre 2019.](images/IMG_2043.JPG){width=100%}
@@ -150,7 +150,7 @@ La popularidad de este canino creció a tal grado que los manifestantes han adop
 
 El "negro", como era conocido entre los círculos universitarios, se convirtió en un símbolo social genuino que ha trasciendido por su espontaneidad. Este ícono de resistencia social logra capturar el sentimiento de manifestantes en una  posición defensiva y a la vez transmite un mensaje de rechazo en contra de las expresiones de maltrato y abuso, frecuentemente presentes en actos públicos de protesta. 
 
-La creatividad que desplegaron los ciudadanos durante las protestas de **El despertar**, recoje una diversidad de expresiones que integra a grupos demográficos de sucesivas generaciones. Y muestra un denominador común con símbolos que han aparecido en otros movimientos de protesta de gran importancia a escala mundial, como el caso del "Loukanikos" un ícono canino presente en las notables protestas anti austeridad que tuvieron lugar en Grecia a inicios de la segnda década de este siglo en el continente Europeo. 
+La creatividad que desplegaron los ciudadanos durante las protestas de **El despertar**, recoje una diversidad de expresiones que integra a grupos demográficos de sucesivas generaciones. Y muestra un denominador común con símbolos que han aparecido en otros movimientos de protesta de gran importancia a escala mundial, como el caso del "Loukanikos" un ícono canino presente en las notables protestas anti austeridad que tuvieron lugar en Grecia a inicios de la segunda década de este siglo en el continente Europeo. 
 
 Son precisamente este conjunto de elementos los que dan cuenta de la extensión cultural de la protesta y los mecanismos diversificados de difusión de los mensajes que en el fondo tienen un carácter profundamente humano. 
 
@@ -168,13 +168,13 @@ Un fenómeno que repercutió en demandas por abuso y violación a los derechos h
 
 ![Fuente: Cartel sobre kiosko,  Santiago, región metropolitana, Chile “¡Torturadores a sueldo". noviembre 2019](images/IMG_2194.JPG){width=100%}
 
-Con variaciones de diversa índole el blanco de reclamo que representaron las fuerzas policiales o pacos, fue un denominador común que se distribuyó en las diferentes marchas del movimiento La siguiente representación gráfica, da cuenta de este fenómeno.
+Con variaciones de diversa índole, el blanco de reclamo que representaron las fuerzas policiales o pacos, fue un denominador común que se distribuyó en las diferentes marchas del movimiento. La siguiente representación gráfica, da cuenta de este fenómeno.
 
 ![Fuente: Mensaje sobre fachada de negocio, Santiago, región metropolitana, Chile “Paco Cerdo ", "ACAB". noviembre 2019](images/IMG_2164.JPG){width=100%}
 
 Ya avanzado, el estallido social, el recuento de los impactos de los choques y turbas de manifestantes con las fuerzas del orden, fue tomando forma y se inició una campaña para dar a conocer a los lesionados y fallecidos: Las organizaciones y gremios compartieron biografías de la población afectada y descripciones de los hechos con la finalidad de hacer visible los incidentes y buscar llevar a juicio a los responsables. Lo cual ocurrió en algunos casos como el de la joven Fabiola Campillai, que fue víctima del lanzamiento de recipiente de gas lacrimógeno directamete a su rosto y por el cual, no solo perdió la vista pero tuvo multiples lesiones irreversibles.
 
-El destino de Fabiola Campillai cambió a partir de los episodios ocurridos en el “El despertar”, tanto por la marca física y sicológica, que este episodio historico generó, pero también por la puerta que se abrió en su camino profesional, al ser electa para desemepñar un cargo de elección popular en servicio del pueblo chileno.
+El destino de Fabiola Campillai cambió a partir de los episodios ocurridos en el “El despertar”, tanto por la marca física y sicológica, que este episodio histórico generó, pero también por la puerta que se abrió en su camino profesional, al ser electa para desemepñar un cargo de elección popular en servicio del pueblo chileno.
 Fabiola fué electa como senadora independiente por la 7ª circunscripción, Región Metropolitana de Santiago para ocupar un escaño en el partlamento en legislatura 2022-2030 donde tiene la oportnidad de llevar a cabo de forma directa tareas para concretar los ideales que el movimiento social reclamaba.
 
 El siguiente cartel muestra una recopilación de víctimas de los sucesos ocurridos durante el estallido social. 

@@ -1,15 +1,13 @@
 --- 
 title: "No son 30 Pesos, son 30 años. Reflexiones a través de la fotografía sobre El despertar en Chile"
 author: "José Luis Manzanares Rivera"
-date: "2023-03-22"
+date: "2023-03-25"
 site: bookdown::bookdown_site
 output: bookdown::bs4_book
 always_allow_html: true
 documentclass: krantz
-monofont: "Source Code Pro"
-monofontoptions: "Scale=0.7"
-bibliography: library.bib
-biblio-style: chicago-note-bibliography.csl
+bibliography: library_v3.bib
+biblio-style: apalike
 link-citations: yes
 colorlinks: yes
 graphics: yes
@@ -20,15 +18,10 @@ url: https://chile3030.netlify.app
 
 # Bienvenidos {-}
 
+Este es el sitio  enlinea del libro *No son 30 Pesos, son 30 años. Reflexiones a través de la fotografía sobre El despertar en Chile.*
 
-
-<img src="images/cover2.png" class="cover" width="250" height="328"/>Este es el sitio  enlinea del libro *No son 30 Pesos, son 30 años. Reflexiones a través de la fotografía sobre El despertar en Chile.*.
-
+<img src="images/cover2.png" class="cover" width="250" height="328"/>
 <hr>
-
-
-
-
 
 ## Contribuye al proyecto  {-}
 
@@ -36,15 +29,12 @@ Si encuentras el libro útil, puedes contribuir:
 
 - Compartiéndolo con tu equipo y redes. 
 
-- Comentando en medios digitales, por ejemplo, a través del hashtag *#30añosNo30pesos* en Twitter (véase nuestro Libro de visitas).
+- Comentando en medios digitales, por ejemplo, a través del hashtag *#Chile3030* en Twitter.
 
 - Citándolo o enlazándolo.
 
-- Haciendo reseñas, por ejemplo, en Amazon o Goodreads
-
-- Haciendo preguntas o sugerencias sobre el contenido a través de GitHub o Twitter.
-
-- Puedes contribuir directamente comprando un ejemplar en **Amazon**
+- Disfruta la lectura comprando un ejemplar en: [BlackDogPublishing](https://insight4health.netlify.app/)
+También puedes descargar una copia **gratis** en formato PDF o epub.
 
 
 
@@ -52,8 +42,19 @@ Si encuentras el libro útil, puedes contribuir:
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 
 
+```{=html}
+<a href="https://www.dropbox.com/s/g9jz1nzh3nc2dns/Chile3030.pdf?dl=0">
+<button class="btn btn-danger"><i class="fa fa-save"></i> Download PDF file</button>
+</a>
+```
 
-Para mantenimiento y contribución a este proyecto editorial de código abierto es necesario seguir el  [Codigo de conducta](https://github.com/bordercode/Chile3030/blob/master/codigo_de_conducta.md).
+
+
+```{=html}
+<a href="https://www.dropbox.com/s/ercrum32noqpakp/Chile3030.epub?dl=0">
+<button class="btn btn-warning"><i class="fa fa-save"></i> Download epub file</button>
+</a>
+```
 
 
 # Prefacio {-}
