@@ -21,7 +21,7 @@ En paralelo a las manifestaciones que tuvieron una menor frecuencia a medida que
 
 ![Fuente: Ilustración sobre barda en ciudad de Temuco, noviembre de 2019.](images/IMG_2337.JPG){width=100%}
 
-La apertura del proceso constituyente en Chile se inició el 15 de noviembre de 2019, con el Acuerdo por la Paz y la Nueva Constitución y el 25 de octubre de 2020 a través de un plebiscito, se decidió, iniciar el proceso para redactar una nueva Constitución. [@guerreroCENTROESTUDIOSPOLITICOS2021].
+La apertura del proceso constituyente en Chile se inició el 15 de noviembre de 2019, con el Acuerdo por la Paz y la Nueva Constitución y el 25 de octubre de 2020 a través de un plebiscito, se decidió, iniciar el proceso para redactar una nueva Constitución. [@guerreroCentroEstudiosPoliticos2021].
 
 Sin embargo, un nuevo plebiscito constitucional, conocido como “plebiscito de salida” esta vez en 2022, ya instalado el gobierno del presidente Gabriel Boric, resultó en la no aprobación del  nuevo proyecto constitucional. 
 
@@ -29,7 +29,7 @@ El objetivo del proceso de 2022 fue determinar si la ciudadanía estaba de acuer
 
 ![Fuente: Mensaje sobre barda en ciudad, Santiago, Chile noviembre 2019. “#Nueva Constitución”](images/IMG_2318.JPG){width=100%}
 
-Aparentemente, la ciudadanía no deseaba la nueva constitución propuesta, ya que el resultado anunciado por el Servicio electoral del Chile fué que solo el 38.11% de los sufragios se dieron por la opción de apruebo, lo que dejo a la opción rechazo con una mayoría indiscutible con un 68.99% de los votos [@servicioelectoraldechilePlebiscito20222022], un resultado contrario a las demandas del propio movimiento social original que precisamente reclamaron una nueva constitución. 
+Aparentemente, la ciudadanía no deseaba, lo suficinte la nueva constitución propuesta, ya que el resultado anunciado por el Servicio electoral del Chile fué que solo el 38.11% de los sufragios se dieron por la opción de apruebo, lo que dejo a la opción rechazo con una mayoría indiscutible con un 68.99% de los votos [@servicioelectoraldechilePlebiscito20222022], un resultado contrario a las demandas del propio movimiento social original que precisamente reclamaron una nueva constitución. 
 
 El evento del domingo l4 de septiembre de 2022, pasará a la historia como un suceso controvertido y paradójico, que los ojos atónitos de los de chilenos que participaron en las marchas y los 4,859,103 que votaron a favor de la nueva constitución, seguramente recordarán.
 

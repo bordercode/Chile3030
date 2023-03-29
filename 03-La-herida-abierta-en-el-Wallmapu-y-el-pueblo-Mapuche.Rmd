@@ -1,6 +1,6 @@
 # La herida abierta en el Wallmapu y el pueblo Mapuche.
 
-La conformación demográfica de Chile, presenta en la actualidad una mezcla de perfiles, las diversas etapas de la historia han contribuido a conformar una sociedad multicultural, sin embargo, a diferencia de países como Argentina donde, los pueblos originarios fueron prácticamente exterminados, o México, donde se presente un proceso de mestizaje con una diversidad regional, en Chile, los habitantes ancestrales de esas tierras sudamericanos, los Mapuche (Mapu: Tierra, Che: Gente) han ocupado la parte central y sur del país y no han podido ser exterminados, a pesar de sistemáticos intentos a lo largo de los siglos por los grupos hegemónicos y el poder político.
+La conformación demográfica de Chile, presenta en la actualidad una mezcla de perfiles, las diversas etapas de la historia han contribuido a conformar una sociedad multicultural, sin embargo, a diferencia de países como Argentina donde, los pueblos originarios fueron prácticamente exterminados, o México, donde se lleva acabo un proceso de mestizaje con una diversidad regional, en Chile, los habitantes ancestrales de esas tierras sudamericanas, los Mapuche (Mapu: Tierra, Che: Gente) han ocupado la parte central y sur del país y no han podido ser exterminados, a pesar de sistemáticos intentos a lo largo de los siglos por los grupos hegemónicos y el poder político.
 
 El pueblo Mapuche originalmente asentado a lo largo de un extenso territorio que se extendía desde el río Choapa en el norte hasta el canal de Chacao en el sur, y desde la cordillera de los Andes en el este hasta el océano Pacífico en el oeste, ha sido paulatinamente orillado a ocupar fragmentos marginales cada vez más reducidos de lo que una vez fue su hogar hacia la parte sur del territorio chileno en los límites que marca el río Biobío, en lo que hoy se conoce como la frontera hacia el sur. 
 
@@ -16,8 +16,8 @@ Desde la conformación del país que hoy conocemos como Chile construido sobre e
 
 El asesinato de miembros de la comunidad mapuche como Camilo Catrillanca dan cuenta de la frágil estabilidad y las tensiones que los “wingkas”^[Nombre en indioma Mapudungún que reciben los individuos no Mapuches. Tradicionalmente es un vocablo que hace referencia a los conquistadores españoles y colonos que se establecieron en el territorio Mapuche]  protagonizan en contra de la “gente de la tierra” y son testimonio doloroso de una herida abierta en el Wallmapu. 
 
-Corría, el 34 de abril de 2007, cuando Camilo Catrillanca, un joven mapuche de 24 años, nieto del connotado líder del movimiento Aiihyuke Catrillanca, es interceptado por efectivos presuntamente pertenecientes a cuerpos especiales de carabineros, mientras conducir un tractor por un camino rural cercano a la localidad de callipuyii y es ultimado. 
-La pérdida de la vida de este joven detona una sentida manifestación y un clamor social desde lo mas hondo de la Araucanía.
+Corría, el 34 de abril de 2007, cuando Camilo Catrillanca, un joven mapuche de 24 años, nieto del connotado líder del movimiento Aiihyuke Catrillanca, es interceptado por efectivos presuntamente pertenecientes a cuerpos especiales de carabineros, mientras conducia un tractor por un camino rural cercano a la localidad de Callipuyii y es ultimado. 
+La pérdida de la vida de este joven detona una sentida manifestación y un clamor social desde lo más hondo de la Araucanía.
 
 El siguiente cartel, muestra una representación de la imagen del joven que fue emblema del movimiento social de octubre de 2019.
 
@@ -29,19 +29,12 @@ El idioma del pueblo Mapuche es el Mapudungún y es aún usado entre los miembro
 
 ![Fuete: Mensaje sobre barda. Temuco, región de la Araucanía, noviembre 2019. Nutuayin Mapu mew”. (En idioma Mapudungún “recuperemos nuestra tierra.”).](images/IMG_1246.JPG){width=100%}
 
-El arraigo del pueblo mapuche con los recursos naturales y el apego al territorio son parte de la definición de este importante legado cultural, sin embargo y contrario a la tendencia mundial, en Chile no se tiene un reconocimiento a los pueblos indígenas. 
+El arraigo del pueblo mapuche con los recursos naturales y el apego al territorio son parte de la definición de este importante legado cultural, sin embargo y contrario a la tendencia mundial, en Chile el reconocimiento a los derechos de los pueblos indígenas aún transita por un camino distante a la posición de sociedes democráticas avanzadas en la materia como Nueva Zelanda, Australia, Canadá e incluso el vencino Bolivia, país que otorga en el Congreso la misma cantidad de escaños que a los ciudadanos no indígenas. 
 
 Esta visión muestra un paradigma contrario a la tendencia mundial en sociedades avanzadas donde cada vez más se mira a los pueblos originarios como fuente de sabiduría y sus valores son apreciados, entre otros elementos, por su relación de respeto con los recursos naturales.  
 
 En una era en los patrones climáticos tiene cambios que hacen cuestionar el paradigma depredador en el que los sistemas económicos actuales avanzan, retomar la sabiduría expresada por el vínculo que los pueblos originarios tienen con los recursos de los que dependen, parece un camino importante. 
 
-La situación que se vive en la Araucanía hoy y que se expresó como un elemento del descontento en el estallido social de octubre de 2019, ciertamente es testimonio de una mentalidad incapaz de aceptar una realidad histórica que es la presencia del pueblo mapuche en el territorio, hoy ocupado por una amalgama multicultural. 
-
-El arraigo del pueblo mapuche con los recursos naturales y el apego al territorio son parte de la definición de este importante legado cultural, sin embargo y contrario a la tendencia mundial, en Chile no se tiene un reconocimiento a los pueblos indígenas. 
-
-Esta visión muestra un paradigma contrario a la tendencia mundial en sociedades avanzadas donde cada vez más se mira a los pueblos originarios como fuente de sabiduría y sus valores son apreciados, entre otros elementos, por su relación de respeto con los recursos naturales.
-
-En una era en los patrones climáticos tiene cambios que hacen cuestionar el paradigma depredador en el que los sistemas económicos actuales avanzan, retomar la sabiduría expresada por el vínculo que los pueblos originarios tienen con los recursos de los que dependen, parece un camino importante. 
 
 La situación que se vive en la Araucanía hoy y que se expresó como un elemento del descontento en el estallido social de octubre de 2019, ciertamente es testimonio de una mentalidad incapaz de aceptar una realidad histórica que es la presencia del pueblo mapuche en el territorio, hoy ocupado por una amalgama multicultural. 
 

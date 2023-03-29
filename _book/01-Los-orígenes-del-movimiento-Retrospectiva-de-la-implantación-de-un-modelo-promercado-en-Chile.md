@@ -16,34 +16,19 @@ El primero, la visión del economista austriaco Alfred Hayek sobre el libre merc
 
 Esa base teórica, no obstante, ha significado para Chile, según investigadores especializados en América latina, “la aplicación a rajatabla del modelo neoliberal más extremista del planeta.” [@grezEstaVezPoder2019].  Y es posible afirmar, además, que, en la percepción general de la región, Chile representa el primer experimento   neoliberal hecho posible en Latinoamérica, si bien no el único.
 
-Aunque el papel de la escuela de Chicago, para al diseño del modelo económico en Chile ha sido ampliamente documentado desde sus inicios [@davis-hamelSuccessfulNeoliberalismState2012; @kaiserChicagoBoysRevival2021; @moffitChicagoEconomicsChile1977; @pausEconomicGrowthNeoliberal1994] incluyendo evaluaciones de los efectos medidos con la balanza de la distancia y a partir de la evidencia, una forma más sutil de implementación del modelo es ahora reconocido por la sociedad, este el relacionado con la batalla de las ideas para lograr un consenso socio político facilitado por diversas formas culturales de poder. Es este proceso de construcción de hegemonía y el poder cultural el que parece haberse agrietado para exponer la realidad detrás de los números.
+No obstante que el papel de la escuela de Chicago, para el diseño del modelo económico en Chile ha sido ampliamente documentado desde sus inicios [@davis-hamelSuccessfulNeoliberalismState2012; @kaiserChicagoBoysRevival2021; @moffitChicagoEconomicsChile1977; @pausEconomicGrowthNeoliberal1994] incluyendo evaluaciones de los efectos medidos con la balanza de la distancia y a partir de la evidencia, una forma más sutil de implementación del modelo es ahora reconocido por la sociedad, este el relacionado con la batalla de las ideas para lograr un consenso socio político facilitado por diversas formas culturales de poder. Es este proceso de construcción de hegemonía y el poder cultural el que parece haberse agrietado para exponer la realidad detrás de los números.
 
 En segundo lugar, la concepción ideológica del abogado Jaime Guzmán recoge las ideas sobre poder constituyente expuestas por el teórico Carl Schmitt, un científico social que habiéndose encontrado en la crisis más severa en la historia de la democracia constitucional, aquella durante la Alemania en la república de Weimar, plantea cuestionamientos sobre la habilidad que regímenes liberales o socio democráticos, por lo demás arreglos institucionales fundados sobre principios legales, pueden tener para legitimar su 
 funcionamiento. 
 
 En este sentido, el legado de Carl Schmitt reconoce que un régimen que permite a los partidos, en ocasiones enemigos reconocidos del estado de derecho, la formulación y aplicación de las leyes, es un rasgo que abre la puerta para su abuso.
 
-La estructura institucional resultante de aquel diseño en Chile, un país que a pesar de sus indicadores económicos de crecimiento, al parecer no ha sido capaz de generar condiciones de distribución que permitan un desarrollo equilibrado entre los miembros de la sociedad, aún a pesar de la enorme riqueza tanto material, expresada por las abundantes reservas de materias estrategias para el funcionamiento  global como el cobre, el litio que según datos del Servicio Geológico de Estados Unidos (USGS) [@u.s.geologicalsurveyMineralCommoditySummaries2023] ocupan el tercer lugar mundial solo después de Bolivia y Argentina),  su capacidad de generación de energía hidroeléctrica o su potencial en materia de energía solar en el gran desierto de Atacama denominado el Arabia Saudita en referencia a su capacidad fotovoltaica;  como indiscutiblemente aquella riqueza expresada por los saberes ancestrales del pueblo originario Mapuche que su territorio posee.
+La estructura institucional resultante de aquel diseño en Chile, al parecer no ha sido capaz de generar condiciones de distribución que permitan un desarrollo equilibrado entre los miembros de la sociedad; aún a pesar de sus indicadores económicos de crecimiento, basados en la enorme riqueza tanto material, expresada por las abundantes reservas de materias estratégicas para el funcionamiento  global como el cobre, el litio que según datos del Servicio Geológico de Estados Unidos (USGS) [@u.s.geologicalsurveyMineralCommoditySummaries2023] ocupan el tercer lugar mundial solo después de Bolivia y Argentina),  su capacidad de generación de energía hidroeléctrica o su potencial en materia de energía solar en el gran desierto de Atacama denominado el Arabia Saudita en referencia a su capacidad fotovoltaica;  como indiscutiblemente aquella riqueza expresada por los saberes ancestrales del pueblo originario Mapuche que su territorio posee.
 
 El despertar chileno de octubre de 2019 parece recuperar como eco lejano, demandas que la gente común ha reclamado desde la segunda mitad del siglo XX.  La descripción que hacen antropólogos como Clara Han de las condiciones que la población tiene en La Pinacoya, un barrio periférico de Santiago en 2004, parecen reflejar la realidad de 2019, incluso las demandas  expresadas por las pancartas de una de esas marchas a principios de este siglo “-REPRE + Salud y Educación” [@hanLifeDebt2012], muestran la persistencia del reclamo social en el Chile post dictadura. En su obra: Life in Debt. Times of care and Violence in Neoliberal Chile, la antropóloga rescata la imagen del Chile de inicios de siglo, que por lo demás, persiste hoy en día respecto de la figura que el modelo neoliberal tiene en la frustración popular.
 
-Ya en 1970, el expresidente Jorge Alessandri, ante un periodo de transición acompañado por manifestaciones sociales declaraba: 
 
->*“He percibido, así forzosamente, el rumor creciente de la marea del descontento, la  desesperanza y la inquietud, productos  inevitables de las justas aspiraciones   despertadas pero insatisfechas”* [@elsurPensamientosAlessandri1985].
-
-
-Una radiografía que bien podría provenir de una declaración del jefe de gobierno del estado chileno en medio del movimiento de octubre de 2019, tal vez no con la misma elocuencia, es preciso admitir. En su lugar, la clase política actual representada por la cabeza del estado chileno, el presidente Sebastián Peñera: declaraba el día 20 de octubre de 2019 en mensaje a la nación, justo en el clímax del movimiento: 
-
->*“Estamos en guerra, contra un enemigo poderoso e implacable que no respeta a nada ni a nadie, que está dispuesto a usar la violencia y la delincuencia sin ningún límite…
-Tiene un grado de organización, de logística que es propia de una organización criminal. 
-Hemos establecido estado de emergencia…
-Estos 9,500 hombres bajo las órdenes del general Iturriaga están defendiendo todos los puntos neurálgicos, críticos que son aquellos que estos violentistas y delincuentes están atacando… 
-Por esa razón yo le pido a todos mis compatriotas que nos unamos en esta batalla que no podemos perder”* (Declaración del presidente Piñera, 20 de octubre 2019) [@gobiernodechilePresidentePinera2019].
-
-Vaya forma de encender el furor social, mientras en las calles de todo Chile la población con desesperación proclamaba: 
-“No Son 30 pesos son 30 años!!”
-
-
+La historia sociopolítica del país sudamericano está llena de lecciones de importancia para América Latina y las repetidas expresiones populares para comunicar la necesidad de cambios en las estructuras políticas y el modelo de desarrollo han tenido continuidad, con su culminación de gran magnitud en este siglo con el movimiento denominado **El despertar de Chile** que inició el viernes 18 de octubre de 2019.  Y que se puede calificar por diversos parámetros como el movimiento social más importante en aquel país desde 1850. 
 
 
 ![Fuente: Cartel sobre kiosco, Av. Libertador Bernardo O´Higgins, inmediaciones de plaza Vicuña Mackenna. Ciudad de Santiago. Sábado   16 de noviembre 2019.  Mensajes: “Nunca más tendrán la comodidad de nuestro silencio”, “Los encapuchados te defienden de los Pacos y de los balines de los pacos”, “El amor es más fuerte.”, “Nos robaron tanto, que nos robaron hasta el miedo.”, “Por una vida digna.” “Evade”](images/IMG_2398.jpg){width=100%}
@@ -52,95 +37,10 @@ Vaya forma de encender el furor social, mientras en las calles de todo Chile la 
 Vemos en la fotografía, que muestra a los manifestantes ondeando la bandera del pueblo Mapuche sobre la estatua del general Baquedano, en la plaza hoy conocida como de la dignidad, un conjunto complejo de relaciones sociales. 
 A pesar de la sencillez y la brevedad de los textos, la connotación social es muy profunda. Una lucha de clases se hace evidente y salta ante nuestros ojos de manera súbita desde diferentes frentes. En las calles de Santiago, una ciudad capital en el epicentro del fenómeno que algunos historiadores especializados en economía han denominado “el milagro económico chileno”, convergen los más diversos segmentos de la sociedad y se plasman uno a uno los mensajes de la desesperanza: *“Nunca más tendrán la comodidad de nuestro silencio”* planteaba un mensaje, mientras otro advertía: *“Nos robaron tanto que, nos robaron hasta el miedo”*. 
 
-![Fuente: Cartel sobre triplay protector en fachada de negocio. Ciudad de Temuco, Region de la Araucanía. Martes 12 de noviembre 2019.](images/IMG_1593.jpg){width=100%}
-
-
-En definitiva la declaración del Jefe de estado Chileno, tiene ese dejo de superioridad con tono añejo que recuerda la tensa relación, frecuentemente hostil, entre las cupulas gobernantes y el grueso de la sociedad, aquellos hombres y mujeres que Salazar en su estudio sobre las grupos sociales de principios del siglo XX satiriza como las masas de rotos alzados que pululaban por las calles, cerros y desiertos del país  [@vergara2014mercaderes].  
-
-![Fuente: Cartel sobre triplay protector en fachada de negocio. Ciudad de Temuco, Región de la Araucanía. martes 12 de noviembre 2019. .](images/IMG_1595.jpg){width=100%}
-
-En claro contraste con sensibilidades políticas de otros tiempos y de otra envergadura por supuesto, Jorge Alessandri (presidente de Chile en el periodo 1958 y 1964) por ejemplo declaraba en 1970, ante las *“Los males del orden público y social no se corrigen silenciándolos.”* [@elsurPensamientosAlessandri1985]
-
-
-El manejo del conflicto sin duda demandaba un tacto político que Sebastián Piñera y su gabinete desafortunadamente no poseían y ante la presión del pueblo, la decisión fue utilizar la fuerza pública mediante el poder militar, un hecho que imprimó un tono de opresión y censura reminiscente de la dictadura; de hecho, la percepción pública reaccionó con un incremento de las manifestaciones y una expansión territorial del movimiento. 
-Al respecto medios locales independientes declaraban 
-
->*“La decisión de sacar a los militares a la calle fue el encendedor que hizo explotar el material altamente inflamable de los predicamentos, frustraciones y resentimientos de grandes sectores de la población"*. [@grezEstaVezPoder2019].
-
-![Fuente: Cartel sobre Kiosco en ciudad de Temuco, Región de la Araucanía Martes 12 de noviembre 2019. “Todas las balas se devuelven”, “Que la reseca muerte no me encuentre vacía y sola sin haber hecho lo suficiente”. “No son 30 pesos, son 30 años”.. .](images/IMG_1333.jpg){width=100%}
-
-
-La participación de los diversos estratos de la sociedad fue un rasgo que caracterizó el movimiento y si bien se inicia con muestras de protesta por parte de los estudiantes, otros actores sociales acompañaron en las marchas y expresaron con su propia forma la solidaridad un planteamiento legítimo de descontento, así amas de casa y personas de edad avanzada tuvieron una especial muestra de comunicación de sus demandas empleando utensilios de cocina como las cacerolas en las movilizaciones. 
-
-![Fuente: Cartel sobre pared, Av.  Santa Lucía, ciudad Santigo, región metropolitana,  noviembre 2019. “Las únicas balas que han disparado han sido contra el pueblo desarmado”](images/IMG_2407.jpg){width=100%}
-
-De igual manera personajes públicos se sumaron a la protesta con expresiones radicales en clara rebeldía en contra del sistema, como fué el caso de la cantane Mon Laferte, quien através de la exposición corporal le comunicó al mundo su respaldo al movimiento social y promovió una dura crítica a los abusos en el manejo del conflico.
-
-
-![Fuente:  Cartel sobre pared, Ciudad de Santiago. noviembre 2019. “Teta Libre Patria Libre”, “En Chile torturan violan y matan”.”](images/IMG_2385.jpg){width=100%}
-
-En conjunto a la movilización en las calles,  la organización social buscó informar sobre  campañas mediáticas y el manejo de la inforamción. 
-
-![Fuente:  Calle Pedro Valdivia, edificio de la municipalidad, Ciudad de Valdivia, región de los ríos, zona centro. miércoles 13 de noviembre “hasta que la dignidad sea costumbre”, “Revolución”.](images/IMG_1970.jpg){width=100%}
-
-El sentimiento social fue en asenso, esparciendose de forma rápida durante los primeros dias del movimiento. Así, a casi mil kilometros de distancia en regiones alejadas de la capital como lo es la región de los Ríos, se presentaban muestras álgidas del descontento. 
-
-En Valdivía la capital de la región de los ríos, vemos en pleno edificio de la municipalidad una contundente expresión que muestra el estado de urgencia de las manifestaciones y en la parte superior de la pared es posible observar un cartel con una imagen del presidente Sebastián Piñera con un ojo tapado y el otro marcado con tinta roja simulando el sangrado en representación de las consecuencias de las violaciones de derechos humanos cometidas por la fuerza pública en contra de los manifestantes, mismos que fueron documentados por diversas investigaciones independientes [@cortesVulneracionDerechosHumanos2021] incluidas organizaciones como anministia internacional, a través del reporte: Ojos sobre Chile [@amnistiainternacionalOjosSobreChile2020].
-
-![Fuente: Cartel sobre pared en parroquia San Francisco de Alameda. Calle San Francisco esquina con Av. Libertador Bernardo O´Higgins Santiago, novimebre 2019. “Abusodores pedófilos”.](images/IMG_2311.jpg){width=100%}
-
-El grado de indignación y escala de la protesta por medios escritos en contra del sistema se observa también por la recurrente creación de carteles sobre las paredes de edificios públicos y particularmente llama la atención sobre centros religiosos de diversas denominaciones, como es el caso de la parroquía: San Francisco de  Alameda, una edificación que data del periodo colonial y es uno de los recintos católicos más antiguos del país. 
-
-Ubicada en pleno centro de la ciudad de Santiago, en las inmediaciones del Palacio de la moneda, sobre la avenida Libertador Bernardo O´Higgins^[Esta avenida, ya tradicional en la ciudad de Santiago, es una arteria vial de reunión principal y confluencia de los diversos sectores de la sociedad], fué testigo, aúnque no del todo mudo, de la gran movilización de la población civil durante el estallido en octubre de 2019. 
-
-Un rasgo característico de la violenta respuesta que implementó el gabinete del presidente Piñera y que desató la conmoción de la opinión pública, fue el uso de fuerzas especiales equipadas con armas que dispararon perdigones y balines contra las multitudes lo que resultó en más de 220 lesiones oculares en su mayoria en contra de jovénes [@penaalfredoDolorChile2019].
-
-Un caso emblemático fue la mutilación brutal que significó la pérdida de ambos globos oculares del jovén de 21 años Gustavo Gatica durante una jornada violenta la tarde del 8 de noviembre de 2019, quien a consecunencia de los disparos brutales de los efectivos de carabineros perdería totalmente la vista. Un caso que fue ampliamente documentado por los medios internacionales y que se volvió un símbolo de los abusos del poder derivado del manejo del conflicto cuyas acciones denotaron un claro mensaje de fuerza y cero tolerancia con el objetivo de reestablecer el orden público. 
-
-![Fuente. Entrada a plaza Pedro de Valdivia, Av. Santa Lucía, ciudad de Santigo, región metropolitana noviembre 2019. “Nuestros ojos no se cierran ni con las balas”](images/IMG_2348.jpg){width=100%}
-
-Gustavo Gatica, Gabriel Boric dos caras diferentes en un mismo conflicto social, mientras Gustavo es alcanzado por perdigones que impactan sus dos ojos y pierde la visión, Gabriel Boric, un rostro público  con amplia participación en marchas y movimientos de lucha social, pasa por el conflicto y surge como el candidato presidencial que,  al cabo de un par de años llegará al poder como el presidente más joven de la historia de Chile con  36 años de edad y  actual mandatario de menor edad en el mundo. 
-
-Paradójicamente y como una jugada política, el destino reencontraría a estos dos emblemáticos pero contrastantes símbolos de una misma lucha, cuando en la toma de protesta del recién electo joven presidente Boric, se tuvo la idea de invitar a Gustavo Gatica,  quien ocupó el puesto de invitado especial durante la ceremonia de investidura.
-
-
-![Fuente: Cartel sobre pared de Liceo Pablo Neruda, Av. Arturo Pratt, ciudad de Temuco, región de la Araucanía, noviembre 2019.](images/IMG_2071.jpg){width=100%}
-
-El caso de Fabiola Campillai, una jovén que fue impactada por un proyectil de gas lacrimogéno que le provocó la pérdida de visión y múltiples lesiones, representa otro evidente episodio de violación de derechos humanos, en este caso derivó en una sentencia de 12 años de cárcel para el oficial de carabineros que realizó la agresión. Sobre este caso, el reporte de amnístía internacional que analizó los actos represivos ocurridos durante las manifestaciones del movimiento social, concluye que: 
-
->*“agentes de carabineros de Chile violaron de forma generalizada los derechos humanos de los manifestantes por lo menos durante el primer mes y medio de protestas de 2019.” “…Para restablecer el orden público se asumió como coste necesario el daño a la integridad de las personas"*[@amnistiainternacionalOjosSobreChile2020].
-
-![Fuente: Cartel sobre muro. Ciudad de Villarrica, Región de la Araucania. Martes 12 de noviembre. "Marcha Nacional"](images/IMG_1631.jpg){width=100%}
-
-Si bien,  el daño más evidene respecto a los lesionados por perdigones y los casos de pérdida de globo ocular tuvieron lugar principalmente en la region metropolitana en la comuna de la Providencia en las inmediaciones de la plaza Baquedano (comunmente conocida como plaza Italia), diversas muestras de solidaridad no se hicieron esperar ante las impactantes imágenes del daño sufrido por los jóvenes manifestantes, estas imagenes impactaron la opinión popular lo que reavivó la animadversión en contra de las fuerzas policiales, incluido el cuerpo de Carabineros. 
-
-![Fuente: Cartel sobre ventana, Ciudad de Temuco, Martes 12 de noviembre,  “Cerdo Cxliao”, “ACAB”, “Cafiche del estado”](images/IMG_1235.jpg){width=100%}
-
-La tensión ante el manejo represivo en contra del movimiento social, se focalizó sobre el mandatario quien a partir de sus declaraciones exhibió una total carencia de sensibilidad sobre las demandas de significado profundo por parte de los diversos sectores sociales. El descontrol general sobre el manejo del movimiento fue acompañado por las acciones del estado con muestras excesivas de fuerza. 
-
-![Fuente: Cartél sobre kiosco, inemdiaciones dle metro universidad de Chile,  Ciudad de Santigo, región metropolitana, noviembre 2019”](images/IMG_2418.jpg){width=100%}
-
-Tanto las propias declaraciones y acciones emprendidas por el mandatario como sus antecedentes, son elementos que incentivaron la fuerza de las protestas.  Sebastían Piñera con una fortuna valuada  según la revista *Forbes* en 2.8 billones de dolares, [@nieves-ruizrandyListaForbesConoce2022], monto que lo sitúa en 2023  con la tercera fortuna más grande de Chile es un político emanado de una cultura empresarial, pro mercado,  con formación académica como economista egresdo con postgrado en Harvard, con una notable  trayectoria en el mundo de los negocios, profundas relaciones con el empresariado  chileno y participación con importantes intereses en el tema bancario (es fundador de la empresa Bancard en el segmento de tarjetas de crédito). 
-
-Antecedentes que ciertamente contrastan con los deseos de menor desigualdad que las protestas sociales denotan.  Al parecer Sebastían Piñera fué percibido, por un segmento de la población con ideas radicales, como la encarnación del modelo económico causante de la polarización social.
-
-Al respecto, escritores connotados del país sudamericano como Jorge Baradit, autor del clásico: Historia secreta de Chile,  declaraba. *“Piñera ha terminado por convertir el conflicto en una revuelta contra él”* [@kovacsmariaJorgeBaradit2019].
-
-![Fuente: Cartel en calles del centro de Santiago, comuna de Providencia, región metropolitana](images/IMG_1971.jpg){width=100%}
-
-
-En conjunto la clase política del país y en especial el gabinete de la administración Piñera, pronto fue el centro de atención ante los reclamos de cambio que la población demandaba. 
-
-En el siguiente cartel observamos una expresión de las campañas que se organizaron dirigidas a exhibir a la figura presidencial. Incluidos gobernates anteriores, símbolos de la cúpula política como Michelle Bachelet y en especial a miembros del gabinete de Piñera donde, desctacan relaciones familiares en puestos clave como el primo Ándres Pío Bernardino Chadwick Piñera, quien ostentó el cargo de Ministro Secretario General de la Presidencia durante el movimiento social de octubre de 2019 en Chile. 
-
-
-![Fuente:  Cartel Av. pio Nono, comuna providencia, Ciudad de Santiago. jueves 14 de noviembre 2019](images/IMG_2041.jpg){width=100%}
-
-Al centro de la imagen también se observa el código **1312** que representa el acrónimo inglés ACAB, (*All Cops Are Bastards*), una referencia al descontento sobre la respuesta gubernamental ante las manifestaciones y marchas oranizadas a lo largo del territorio chileno. 
-
-La historia sociopolítica del país sudamericano está llena de lecciones de importancia para América Latina y las repetidas expresiones populares para comunicar la necesidad de cambios en las estructuras políticas y el modelo de desarrollo han tenido continuidad, con su culminación de gran magnitud en este siglo con el movimiento denominado **El despertar de Chile** que inició el viernes 18 de octubre de 2019.  Y que se puede calificar por diversos parámetros como el movimiento social más importante en aquel país desde 1850. 
-
 Uno de los rasgos más significativos que colocan a este movimiento social con la trascendencia histórica adquirida es su representación geográfica, ya que, si bien otros movimientos sociales del siglo XX tuvieron expresiones de mayor violencia, generalmente se confinaban a una localización regional, lo cual, definitivamente no fué el caso del movimiento de octubre de 2019.
+
+
+![Fuente: Cartel sobre triplay protector en fachada de negocio. Ciudad de Temuco, Region de la Araucanía. Martes 12 de noviembre 2019.](images/IMG_1593.jpg){width=100%}
 
 Las raíces del movimiento encuentran su gestación varias décadas atrás con actores políticos que hoy en día figuran al frente del gobierno chileno por ejemplo, si consideramos la trayectoria del actual presidente del país Gabriel Boric que sucedió a Sebastián Piñera en el mandato a partir de 2022, vemos un jóven líder que desde la presidencia de la federación de estudiantes de la Universidad de Chile en 2011, impulsó la defensa de la educación pública, precisamente uno de los temas sociales más sensibles relacionados al modelo constitucional de la dictadura el cual,  dirigió el énfasis del sistema educativo a una estructura privada, con un papel del estado minoritario, lo que resultó a la larga en una carga financiera para el alumnado y un elemento que se suma al abaníco de demandas y reclamos que avivaron el descontento social de “El despertar”.
 
@@ -166,10 +66,29 @@ A continuación, un breve extracto de la citada obra que se convirtió en un him
 
 Es en estas expresiones culturales, escondidas a menudo, entre el bullicio de la rutina y el frenesí de la cotidianidad, que podemos recrear a un pueblo con hambre y sed de justicia como diría, en el contexto mexicano, el político sonorense Luis Donaldo Colosio Murrieta. [@colosiomurrietaEsteFueDiscurso1994].
 
-Las fricciones entre algunos grupos de manifestantes y fuerzas del orden tomaron un tono violento en puntos específicos, ante este escenario,  una de las reacciones de la población con actividad económica en comercios y locales aledaños a los puntos de manifestación, fue la protección y el reforzamiento de las instalaciones, esto se logró en algunos casos usando recubrimientos con triplay en los accesos, principalmente en puertas y ventanas. A pesar de estas medidas se registraron diversos actos de saqueo que fueron reportados por las autoridades, fundamentalmente con afectaciones en tiendas departamentales de las ciudades principales en cada región, con el epicentro de esta actividad en Santiago capital. 
 
-![Fuente: Cartel sobre triplay protector de aparador, Ciudad de Temuco, Región de la Araucanía, noviembre de 2019. “Saqueo es que un universitario tenga que pagar en 20 años lo que un diputado gana en 2 meses".](images/IMG_1282.jpg){width=100%}
+La participación de los diversos estratos de la sociedad fue un rasgo que caracterizó el movimiento y si bien se inicia con muestras de protesta por parte de los estudiantes, otros actores sociales acompañaron en las marchas y expresaron con su propia forma la solidaridad un planteamiento legítimo de descontento, así amas de casa y personas de edad avanzada tuvieron una especial muestra de comunicación de sus demandas empleando utensilios de cocina como las cacerolas en las movilizaciones. 
 
+![Fuente: Cartel sobre pared, Av.  Santa Lucía, ciudad Santigo, región metropolitana,  noviembre 2019. “Las únicas balas que han disparado han sido contra el pueblo desarmado”](images/IMG_2407.jpg){width=100%}
+
+De igual manera personajes públicos se sumaron a la protesta con expresiones radicales en clara rebeldía en contra del sistema, como fué el caso de la cantane Mon Laferte, quien através de la exposición corporal le comunicó al mundo su respaldo al movimiento social y promovió una dura crítica a los abusos en el manejo del conflico.
+
+
+![Fuente:  Cartel sobre pared, Ciudad de Santiago. noviembre 2019. “Teta Libre Patria Libre”, “En Chile torturan violan y matan”.”](images/IMG_2385.jpg){width=100%}
+
+En conjunto a la movilización en las calles,  la organización social buscó informar sobre  campañas mediáticas y el manejo de la información. 
+
+![Fuente:  Calle Pedro Valdivia, edificio de la municipalidad, Ciudad de Valdivia, región de los ríos, zona centro. miércoles 13 de noviembre “hasta que la dignidad sea costumbre”, “Revolución”.](images/IMG_1970.jpg){width=100%}
+
+El sentimiento social fue en asenso, esparciendose de forma rápida durante los primeros dias del movimiento. Así, a casi mil kilometros de distancia en regiones alejadas de la capital como lo es la región de los Ríos, se presentaban muestras álgidas del descontento. 
+
+En Valdivía la capital de la región de los ríos, vemos en pleno edificio de la municipalidad una contundente expresión que muestra el estado de urgencia de las manifestaciones y en la parte superior de la pared es posible observar un cartel con una imagen del presidente Sebastián Piñera con un ojo tapado y el otro marcado con tinta roja simulando el sangrado en representación de las consecuencias de las violaciones de derechos humanos cometidas por la fuerza pública en contra de los manifestantes, mismos que fueron documentados por diversas investigaciones independientes [@cortesVulneracionDerechosHumanos2021] incluidas organizaciones como anministia internacional, a través del reporte: Ojos sobre Chile [@amnistiainternacionalOjosSobreChile2020].
+
+![Fuente: Cartel sobre pared en parroquia San Francisco de Alameda. Calle San Francisco esquina con Av. Libertador Bernardo O´Higgins Santiago, novimebre 2019. “Abusodores pedófilos”.](images/IMG_2311.jpg){width=100%}
+
+El grado de indignación y escala de la protesta por medios escritos en contra del sistema se observa también por la recurrente creación de carteles sobre las paredes de edificios públicos y particularmente llama la atención sobre centros religiosos de diversas denominaciones, como es el caso de la parroquía: San Francisco de  Alameda, una edificación que data del periodo colonial y es uno de los recintos católicos más antiguos del país. 
+
+Ubicada en pleno centro de la ciudad de Santiago, en las inmediaciones del Palacio de la moneda, sobre la avenida Libertador Bernardo O´Higgins^[Esta avenida, ya tradicional en la ciudad de Santiago, es una arteria vial de reunión principal y confluencia de los diversos sectores de la sociedad], fué testigo, aúnque no del todo mudo, de la gran movilización de la población civil durante el estallido en octubre de 2019.
 
 
 Uno de los temas centrales del movimiento fue el educativo, particularmente el esquema privado de financiamiento con el que algunos jóvenes acceden a los niveles superiores de educación. Este mecanismo incluye el denominado CAE, o crédito con garantía Estatal, este medio de financiamiento fue duramente criticado durante las manifestaciones populares de octubre de 2019. 
@@ -192,7 +111,7 @@ Las condiciones por las que el CAE se otorga, incluyen una tasa de interés fija
 
 
 
-En definitiva, uno de los elementos que puede percibirse por el análisis de las expresiones que llevaron al estallido social en Chile en 2019, es el grado de desigualdad entre la población, que está vinculado con la estructura económica resultante del modelo implementado en el último cuarto del siglo pasado, un aspecto que ha llamado la atención de diversos sectores incluido el académico por ejemplo el análisis de [@iturraSchoolsCircumstancesInequality2022] o [@tejadaLifetimeInequalityMeasures2016], quienes consideran con detalle el tema de la inequidad para el país y sus implicaciones en el ambito educativo,  así como en el mercado laboral.  
+En definitiva, uno de los elementos que puede percibirse por el análisis de las expresiones que llevaron al estallido social en Chile en 2019, es el grado de desigualdad entre la población, que está vinculado con la estructura económica resultante del modelo implementado en el último cuarto del siglo pasado, un aspecto que ha llamado la atención de diversos sectores incluido el académico por ejemplo el análisis de [@iturraSchoolsCircumstancesInequality2022] o [@tejadaLifetimeInequalityMeasures2016], quienes abordan el tema de la inequidad para el país y sus implicaciones en el ámbito educativo,  así como en el mercado laboral.  
 
 
 
@@ -236,6 +155,10 @@ El nivel de organización y la diversidad de información que se difundió entre
 ![Fuente: Cartel en muro, Santiago, región metropolitana, noviembre 2019](images/IMG_1583.jpg){width=100%}
 
 En gran parte, el tamaño de las marchas y el poder de convocatoria tuvo un componente de organización basado en los medios digitales de comunicación masiva, que en tiempo real favoreció la difusión de información.  Este es un elemento que caracteriza, el nuevo poder del pueblo y su capacidad de expresión ante las estructuras de gobierno que repentinamente se ven rebasadas y ciertamente tuvieron una respuesta caótica de consecuencias políticas, tanto al interior del gobierno como externas, en la percepción internacional por el manejo de los episodioos de violencia que se sucitaron durante el movimiento social, cuya legitimidad se construyó a partir de muestras de descontento generalizado por parte de la sociedad  civil. 
+
+Las fricciones entre algunos grupos de manifestantes y fuerzas del orden tomaron un tono violento en puntos específicos, ante este escenario,  una de las reacciones de la población con actividad económica en comercios y locales aledaños a los puntos de manifestación, fue la protección y el reforzamiento de las instalaciones, esto se logró en algunos casos usando recubrimientos con triplay en los accesos, principalmente en puertas y ventanas. A pesar de estas medidas se registraron diversos actos de saqueo que fueron reportados por las autoridades, fundamentalmente con afectaciones en tiendas departamentales de las ciudades principales en cada región, con el epicentro de esta actividad en Santiago capital. 
+
+![Fuente: Cartel sobre triplay protector de aparador, Ciudad de Temuco, Región de la Araucanía, noviembre de 2019. “Saqueo es que un universitario tenga que pagar en 20 años lo que un diputado gana en 2 meses".](images/IMG_1282.jpg){width=100%}
 
 ![Fuente: Mensaje sobre rotonda. Cruce de Av. Alberto Hurtado y Av. Libertador Bernardo O’Higgins, Ciudad de Santiago. noviembre 2019 “No + AFP, No +Robo”](images/IMG_2153.jpg){width=100%}
 
@@ -293,4 +216,95 @@ Desafortunadamente, no siempre la explotación de los recursos hídricos comulga
 
 En la imagen observamos una expresión artística plasmada en una barda de las calles de la ciudad de Villarrica, que hacen referencia a las aguas del Mallolafken, el nombre Mapuche que recibe el lago a los pies del volcán Rucapillán.  Es interesante el simbolismo a menudo escondido, por procesos de aculturación iniciados en otras épocas, que encierra el nombre original de este volcán que puede pasar desapercibido por su denominación contemporánea. 
 
-El nombre en idioma mapudungún proviene de los vocablos ruca= casa y Pillán= Espiritú, por lo que una traducción del nombre, puede ser casa de los espíritus,[@bengoaHistoriaAntiguosMapuches2003] lo que es un claro reflejo de la cosmovisión integrada del pueblo mapuche con su entorno natural.     
+El nombre en idioma mapudungún proviene de los vocablos ruca= casa y Pillán= Espiritú, por lo que una traducción del nombre, puede ser casa de los espíritus,[@bengoaHistoriaAntiguosMapuches2003] lo que es un claro reflejo de la cosmovisión integrada del pueblo mapuche con su entorno natural.  
+
+
+
+
+
+## El manejo del conflicto: Una postura desconectada de la sensibilidad social.
+
+Ya en 1970, el expresidente Jorge Alessandri, ante un periodo de transición acompañado por manifestaciones sociales declaraba: 
+
+>*“He percibido, así forzosamente, el rumor creciente de la marea del descontento, la  desesperanza y la inquietud, productos  inevitables de las justas aspiraciones   despertadas pero insatisfechas”* [@elsurPensamientosAlessandri1985].
+
+
+Una radiografía que bien podría provenir de una declaración del jefe de gobierno del estado chileno en medio del movimiento de octubre de 2019, tal vez no con la misma elocuencia, es preciso admitir. En su lugar, la clase política actual representada por la cabeza del estado chileno, el presidente Sebastián Peñera: declaraba el día 20 de octubre de 2019 en mensaje a la nación, justo en el clímax del movimiento: 
+
+>*“Estamos en guerra, contra un enemigo poderoso e implacable que no respeta a nada ni a nadie, que está dispuesto a usar la violencia y la delincuencia sin ningún límite…
+Tiene un grado de organización, de logística que es propia de una organización criminal. 
+Hemos establecido estado de emergencia…
+Estos 9,500 hombres bajo las órdenes del general Iturriaga están defendiendo todos los puntos neurálgicos, críticos que son aquellos que estos violentistas y delincuentes están atacando… 
+Por esa razón yo le pido a todos mis compatriotas que nos unamos en esta batalla que no podemos perder”* (Declaración del presidente Piñera, 20 de octubre 2019) [@gobiernodechilePresidentePinera2019].
+
+Vaya forma de encender el furor social, mientras en las calles de todo Chile la población con desesperación proclamaba: 
+“No Son 30 pesos son 30 años!!”
+
+En definitiva la declaración del Jefe de estado Chileno, tiene ese dejo de superioridad con tono añejo que recuerda la tensa relación, frecuentemente hostil, entre las cúpulas gobernantes y el grueso de la sociedad, aquellos hombres y mujeres que Salazar en su estudio sobre las grupos sociales de principios del siglo XX satiriza como las masas de rotos alzados que pululaban por las calles, cerros y desiertos del país  [@vergara2014mercaderes].  
+
+![Fuente: Cartel sobre triplay protector en fachada de negocio. Ciudad de Temuco, Región de la Araucanía. martes 12 de noviembre 2019. .](images/IMG_1595.jpg){width=100%}
+
+En claro contraste con sensibilidades políticas de otros tiempos y de otra envergadura por supuesto, Jorge Alessandri (presidente de Chile en el periodo 1958 y 1964) por ejemplo declaraba en 1970, ante las *“Los males del orden público y social no se corrigen silenciándolos.”* [@elsurPensamientosAlessandri1985]
+
+
+El manejo del conflicto sin duda demandaba un tacto político que Sebastián Piñera y su gabinete desafortunadamente no poseían y ante la presión del pueblo, la decisión fue utilizar la fuerza pública mediante el poder militar, un hecho que imprimó un tono de opresión y censura reminiscente de la dictadura; de hecho, la percepción pública reaccionó con un incremento de las manifestaciones y una expansión territorial del movimiento. 
+Al respecto medios locales independientes declaraban 
+
+>*“La decisión de sacar a los militares a la calle fue el encendedor que hizo explotar el material altamente inflamable de los predicamentos, frustraciones y resentimientos de grandes sectores de la población"*. [@grezEstaVezPoder2019].
+
+![Fuente: Cartel sobre Kiosco en ciudad de Temuco, Región de la Araucanía Martes 12 de noviembre 2019. “Todas las balas se devuelven”, “Que la reseca muerte no me encuentre vacía y sola sin haber hecho lo suficiente”. “No son 30 pesos, son 30 años”.. .](images/IMG_1333.jpg){width=100%}
+
+
+ 
+
+Un rasgo característico de la violenta respuesta que implementó el gabinete del presidente Piñera y que desató la conmoción de la opinión pública, fue el uso de fuerzas especiales equipadas con armas que dispararon perdigones y balines contra las multitudes lo que resultó en más de 220 lesiones oculares en su mayoria en contra de jovénes [@penaalfredoDolorChile2019].
+
+Un caso emblemático fue la mutilación brutal que significó la pérdida de ambos globos oculares del jovén de 21 años Gustavo Gatica durante una jornada violenta la tarde del 8 de noviembre de 2019, quien a consecunencia de los disparos brutales de los efectivos de carabineros perdería totalmente la vista. Un caso que fue ampliamente documentado por los medios internacionales y que se volvió un símbolo de los abusos del poder derivado del manejo del conflicto cuyas acciones denotaron un claro mensaje de fuerza y cero tolerancia con el objetivo de reestablecer el orden público. 
+
+![Fuente. Entrada a plaza Pedro de Valdivia, Av. Santa Lucía, ciudad de Santigo, región metropolitana noviembre 2019. “Nuestros ojos no se cierran ni con las balas”](images/IMG_2348.jpg){width=100%}
+
+Gustavo Gatica, Gabriel Boric dos caras diferentes en un mismo conflicto social, mientras Gustavo es alcanzado por perdigones que impactan sus dos ojos y pierde la visión, Gabriel Boric, un rostro público  con amplia participación en marchas y movimientos de lucha social, pasa por el conflicto y surge como el candidato presidencial que,  al cabo de un par de años llegará al poder como el presidente más joven de la historia de Chile con  36 años de edad y  actual mandatario de menor edad en el mundo. 
+
+Paradójicamente y como una jugada política, el destino reencontraría a estos dos emblemáticos pero contrastantes símbolos de una misma lucha, cuando en la toma de protesta del recién electo joven presidente Boric, se tuvo la idea de invitar a Gustavo Gatica,  quien ocupó el puesto de invitado especial durante la ceremonia de investidura.
+
+
+![Fuente: Cartel sobre pared de Liceo Pablo Neruda, Av. Arturo Pratt, ciudad de Temuco, región de la Araucanía, noviembre 2019.](images/IMG_2071.jpg){width=100%}
+
+El caso de Fabiola Campillai, una jovén que fue impactada por un proyectil de gas lacrimogéno que le provocó la pérdida de visión y múltiples lesiones, representa otro evidente episodio de violación de derechos humanos, en este caso derivó en una sentencia de 12 años de cárcel para el oficial de carabineros que realizó la agresión. Sobre este caso, el reporte de amnístía internacional que analizó los actos represivos ocurridos durante las manifestaciones del movimiento social, concluye que: 
+
+>*“agentes de carabineros de Chile violaron de forma generalizada los derechos humanos de los manifestantes por lo menos durante el primer mes y medio de protestas de 2019.” “…Para restablecer el orden público se asumió como coste necesario el daño a la integridad de las personas"*[@amnistiainternacionalOjosSobreChile2020].
+
+![Fuente: Cartel sobre muro. Ciudad de Villarrica, Región de la Araucania. Martes 12 de noviembre. "Marcha Nacional"](images/IMG_1631.jpg){width=100%}
+
+Si bien,  el daño más evidene respecto a los lesionados por perdigones y los casos de pérdida de globo ocular tuvieron lugar principalmente en la region metropolitana en la comuna de la Providencia en las inmediaciones de la plaza Baquedano (comunmente conocida como plaza Italia), diversas muestras de solidaridad no se hicieron esperar ante las impactantes imágenes del daño sufrido por los jóvenes manifestantes, estas imagenes impactaron la opinión popular lo que reavivó la animadversión en contra de las fuerzas policiales, incluido el cuerpo de Carabineros. 
+
+![Fuente: Cartel sobre ventana, Ciudad de Temuco, Martes 12 de noviembre,  “Cerdo Cxliao”, “ACAB”, “Cafiche del estado”](images/IMG_1235.jpg){width=100%}
+
+La tensión ante el manejo represivo en contra del movimiento social, se focalizó sobre el mandatario quien a partir de sus declaraciones exhibió una total carencia de sensibilidad sobre las demandas de significado profundo por parte de los diversos sectores sociales. El descontrol general sobre el manejo del movimiento fue acompañado por las acciones del estado con muestras excesivas de fuerza. 
+
+![Fuente: Cartél sobre kiosco, inemdiaciones dle metro universidad de Chile,  Ciudad de Santigo, región metropolitana, noviembre 2019”](images/IMG_2418.jpg){width=100%}
+
+Tanto las propias declaraciones y acciones emprendidas por el mandatario como sus antecedentes, son elementos que incentivaron la fuerza de las protestas.  Sebastían Piñera con una fortuna valuada  según la revista *Forbes* en 2.8 billones de dolares, [@nieves-ruizrandyListaForbesConoce2022], monto que lo sitúa en 2023  con la tercera fortuna más grande de Chile es un político emanado de una cultura empresarial, pro mercado,  con formación académica como economista egresdo con postgrado en Harvard, con una notable  trayectoria en el mundo de los negocios, profundas relaciones con el empresariado  chileno y participación con importantes intereses en el tema bancario (es fundador de la empresa Bancard en el segmento de tarjetas de crédito). 
+
+Antecedentes que ciertamente contrastan con los deseos de menor desigualdad que las protestas sociales denotan.  Al parecer Sebastían Piñera fué percibido, por un segmento de la población con ideas radicales, como la encarnación del modelo económico causante de la polarización social.
+
+Al respecto, escritores connotados del país sudamericano como Jorge Baradit, autor del clásico: Historia secreta de Chile,  declaraba. *“Piñera ha terminado por convertir el conflicto en una revuelta contra él”* [@kovacsmariaJorgeBaradit2019].
+
+![Fuente: Cartel en calles del centro de Santiago, comuna de Providencia, región metropolitana](images/IMG_1971.jpg){width=100%}
+
+
+En conjunto la clase política del país y en especial el gabinete de la administración Piñera, pronto fue el centro de atención ante los reclamos de cambio que la población demandaba. 
+
+En el siguiente cartel observamos una expresión de las campañas que se organizaron dirigidas a exhibir a la figura presidencial. Incluidos gobernates anteriores, símbolos de la cúpula política como Michelle Bachelet y en especial a miembros del gabinete de Piñera donde, desctacan relaciones familiares en puestos clave como el primo Ándres Pío Bernardino Chadwick Piñera, quien ostentó el cargo de Ministro Secretario General de la Presidencia durante el movimiento social de octubre de 2019 en Chile. 
+
+
+![Fuente:  Cartel Av. pio Nono, comuna providencia, Ciudad de Santiago. jueves 14 de noviembre 2019](images/IMG_2041.jpg){width=100%}
+
+Al centro de la imagen también se observa el código **1312** que representa el acrónimo inglés ACAB, (*All Cops Are Bastards*), una referencia al descontento sobre la respuesta gubernamental ante las manifestaciones y marchas oranizadas a lo largo del territorio chileno. 
+
+
+
+
+
+
+   
