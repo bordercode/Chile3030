@@ -1,22 +1,22 @@
 # Los orígenes del movimiento: Un modelo promercado que enfrenta el despertar de una sociedad {#origenes}
 
 
-Chile, a menudo considerado como el país institucionalmente con mayor solidez al sur del rio Bravo, encabezado en 2019 por su presidente Sebastián Piñera, quien empeñado en demostrar que segundas partes nunca fueron buenas, enfrento en octubre una avalancha de repudio hacia un modelo de desarrollo respaldado por un marco regulatorio expresado por preceptos constitucionales fundamentados en su carta magna de 1980. 
+Chile, a menudo considerado como el país institucionalmente con mayor solidez al sur del rio Bravo, encabezado en 2019 por su presidente Sebastián Piñera, quien empeñado en demostrar que segundas partes nunca fueron buenas, enfrentó en octubre una avalancha de repudio hacia un modelo de desarrollo respaldado por un marco regulatorio expresado por preceptos constitucionales fundamentados en su carta magna de 1980. 
 
-En 1980, la dictadura militar de Augusto Pinochet publicó el decreto de ley N° 3464. Este ha funcionado como la Constitución política de Chile hasta la actualidad. Un ordenamiento que, nacido en plena dictadura militar, refleja las prioridades de la época, la visión de una cúpula representada por figuras como el abogado Jaime Guzmán y los intereses de un segmento de la sociedad chilena que hoy enfrenta un descontento generalizado y el reclamo (una vez más) de un pueblo que se percibe ajeno a los dividendos de un modelo capitalista en el que los mecanismos de mercado han resultado en la polarización del ingreso. 
+En 1980, la dictadura militar de Augusto Pinochet publicó el decreto de ley N° 3464. Este ha funcionado como la Constitución política de Chile hasta la actualidad. Un ordenamiento que, nacido en plena dictadura militar, refleja las prioridades de la época, la visión de una cúpula representada por figuras como el abogado Jaime Guzmán y los intereses de un segmento de la sociedad chilena que hoy enfrenta un descontento generalizado y el reclamo (una vez más) de un pueblo que se percibe ajeno a los dividendos de un modelo capitalista en el que los mecanismos de mercado han resultado, también,  en una creciente polarización del ingreso. 
 
 Acorde con el informe sobre desarrollo humano 2019 generado por a Naciones Unidas, Chile es hoy en día, el país más desigual entre los países con índice de desarrollo humano considerado como muy alto, con un índice de Gini de 46.6 puntos, donde el 1% de la población de mayores ingresos concentra  el 80.4% del riqueza nacional. [@chancellucasWorldInequalityReport2021]. 
 Lo que se acompaña por el surgimiento de barreras de acceso a derechos fundamentales para el pleno desarrollo de una sociedad, como la educación superior o la salud, áreas con un nivel considerable de privatización bajo el modelo que prevalece hasta hoy día en el país Sudamericano.
 
 
-Para el abogado Jaime Guzmán, quien es históricamente considerado una de las figuras más cercanas a Pinochet en cuanto al soporte para la implementación de la dictadura en el terreno de las ideas, dos pilares teóricos fundamentales tienen marcada influencia para la elaboración de la constitución de 1980 y que el movimiento social de octubre de 2019 cuestiona abiertamente.
+Para el abogado Jaime Guzmán, quien es históricamente considerado una de las figuras más cercanas a Pinochet en cuanto al soporte para la implementación de la dictadura en el terreno de las ideas, dos pilares teóricos fundamentales tienen marcada influencia para la elaboración de la constitución de 1980 que el movimiento social de octubre de 2019 cuestiona abiertamente.
 
 El primero, la visión del economista austriaco Alfred Hayek sobre el libre mercado que da soporte entre otros elementos ideológicos a lo que se conoce ya ampliamente como neoliberalismo hoy en día.  Así, por ejemplo, considerando las palabras del historiador Gabriel Salazar: para lograr la consolidación del mercado interno y externo, la dictadura de Pinochet fue solícitamente asesorada por los Friedman´s boys [@vergara2014mercaderes].
 
 
 Esa base teórica, no obstante, ha significado para Chile, según investigadores especializados en América latina, “la aplicación a rajatabla del modelo neoliberal más extremista del planeta.” [@grezEstaVezPoder2019].  Y es posible afirmar, además, que, en la percepción general de la región, Chile representa el primer experimento   neoliberal hecho posible en Latinoamérica, si bien no el único.
 
-No obstante que el papel de la escuela de Chicago, para el diseño del modelo económico en Chile ha sido ampliamente documentado desde sus inicios [@davis-hamelSuccessfulNeoliberalismState2012; @kaiserChicagoBoysRevival2021; @moffitChicagoEconomicsChile1977; @pausEconomicGrowthNeoliberal1994] incluyendo evaluaciones de los efectos medidos con la balanza de la distancia y a partir de la evidencia, una forma más sutil de implementación del modelo es ahora reconocido por la sociedad, este el relacionado con la batalla de las ideas para lograr un consenso socio político facilitado por diversas formas culturales de poder. Es este proceso de construcción de hegemonía y el poder cultural el que parece haberse agrietado para exponer la realidad detrás de los números.
+No obstante que el papel de la escuela de Chicago, para el diseño del modelo económico en Chile ha sido ampliamente documentado desde sus inicios [@davis-hamelSuccessfulNeoliberalismState2012; @kaiserChicagoBoysRevival2021; @moffitChicagoEconomicsChile1977; @pausEconomicGrowthNeoliberal1994] incluyendo evaluaciones de los efectos medidos con la balanza de la distancia y a partir de la evidencia, una forma más sutil de implementación del modelo es ahora reconocida por la sociedad, esta la relacionada con la batalla de las ideas para lograr un consenso socio político facilitado por diversas formas culturales de poder. Es este proceso de construcción de hegemonía y el poder cultural, el que parece haberse agrietado para exponer una amarga realidad detrás de los números.
 
 En segundo lugar, la concepción ideológica del abogado Jaime Guzmán recoge las ideas sobre poder constituyente expuestas por el teórico Carl Schmitt, un científico social que habiéndose encontrado en la crisis más severa en la historia de la democracia constitucional, aquella durante la Alemania en la república de Weimar, plantea cuestionamientos sobre la habilidad que regímenes liberales o socio democráticos, por lo demás arreglos institucionales fundados sobre principios legales, pueden tener para legitimar su 
 funcionamiento. 
@@ -25,28 +25,32 @@ En este sentido, el legado de Carl Schmitt reconoce que un régimen que permite 
 
 La estructura institucional resultante de aquel diseño en Chile, al parecer no ha sido capaz de generar condiciones de distribución que permitan un desarrollo equilibrado entre los miembros de la sociedad; aún a pesar de sus indicadores económicos de crecimiento, basados en la enorme riqueza tanto material, expresada por las abundantes reservas de materias estratégicas para el funcionamiento  global como el cobre, el litio que según datos del Servicio Geológico de Estados Unidos (USGS) [@u.s.geologicalsurveyMineralCommoditySummaries2023] ocupan el tercer lugar mundial solo después de Bolivia y Argentina),  su capacidad de generación de energía hidroeléctrica o su potencial en materia de energía solar en el gran desierto de Atacama denominado el Arabia Saudita en referencia a su capacidad fotovoltaica;  como indiscutiblemente aquella riqueza expresada por los saberes ancestrales del pueblo originario Mapuche que su territorio posee.
 
-El despertar chileno de octubre de 2019 parece recuperar como eco lejano, demandas que la gente común ha reclamado desde la segunda mitad del siglo XX.  La descripción que hacen antropólogos como Clara Han de las condiciones que la población tiene en La Pinacoya, un barrio periférico de Santiago en 2004, parecen reflejar la realidad de 2019, incluso las demandas  expresadas por las pancartas de una de esas marchas a principios de este siglo “-REPRE + Salud y Educación” [@hanLifeDebt2012], muestran la persistencia del reclamo social en el Chile post dictadura. En su obra: Life in Debt. Times of care and Violence in Neoliberal Chile, la antropóloga rescata la imagen del Chile de inicios de siglo, que por lo demás, persiste hoy en día respecto de la figura que el modelo neoliberal tiene en la frustración popular.
+## La sociedad se organiza, las demandas convergen en un estallido social denominado El Despertar.
+
+El despertar chileno de octubre de 2019 parece recuperar como eco lejano, demandas que la gente común ha reclamado desde la segunda mitad del siglo XX.  La descripción que hacen antropólogos como Clara Han de las condiciones que la población tiene en La Pinacoya, un barrio periférico de Santiago en 2004, parecen reflejar la realidad de 2019, incluso las demandas  expresadas por las pancartas de una de esas marchas a principios de este siglo “-REPRE + Salud y Educación” [@hanLifeDebt2012], muestran la persistencia del reclamo social en el Chile post dictadura. En su obra: *Life in Debt. Times of care and Violence in Neoliberal Chile*, la antropóloga rescata la imagen del Chile de inicios de siglo, que por lo demás, persiste hoy en día respecto de la figura que el modelo neoliberal tiene en la frustración popular.
 
 
-La historia sociopolítica del país sudamericano está llena de lecciones de importancia para América Latina y las repetidas expresiones populares para comunicar la necesidad de cambios en las estructuras políticas y el modelo de desarrollo han tenido continuidad, con su culminación de gran magnitud en este siglo con el movimiento denominado **El despertar de Chile** que inició el viernes 18 de octubre de 2019.  Y que se puede calificar por diversos parámetros como el movimiento social más importante en aquel país desde 1850. 
+La historia sociopolítica del país sudamericano está llena de lecciones de importancia para América Latina y las expresiones populares para comunicar la necesidad de cambios en las estructuras políticas y el modelo de desarrollo, han tenido continuidad, con su culminación de gran magnitud en este siglo con el movimiento denominado **El despertar de Chile** que inició el viernes 18 de octubre de 2019.  Y que se puede calificar por diversos parámetros como el movimiento social más importante en aquel país desde 1850. 
 
 
 ![Fuente: Cartel sobre kiosco, Av. Libertador Bernardo O´Higgins, inmediaciones de plaza Vicuña Mackenna. Ciudad de Santiago. Sábado   16 de noviembre 2019.  Mensajes: “Nunca más tendrán la comodidad de nuestro silencio”, “Los encapuchados te defienden de los Pacos y de los balines de los pacos”, “El amor es más fuerte.”, “Nos robaron tanto, que nos robaron hasta el miedo.”, “Por una vida digna.” “Evade”](images/IMG_2398.jpg){width=100%}
 
 
-Vemos en la fotografía, que muestra a los manifestantes ondeando la bandera del pueblo Mapuche sobre la estatua del general Baquedano, en la plaza hoy conocida como de la dignidad, un conjunto complejo de relaciones sociales. 
-A pesar de la sencillez y la brevedad de los textos, la connotación social es muy profunda. Una lucha de clases se hace evidente y salta ante nuestros ojos de manera súbita desde diferentes frentes. En las calles de Santiago, una ciudad capital en el epicentro del fenómeno que algunos historiadores especializados en economía han denominado “el milagro económico chileno”, convergen los más diversos segmentos de la sociedad y se plasman uno a uno los mensajes de la desesperanza: *“Nunca más tendrán la comodidad de nuestro silencio”* planteaba un mensaje, mientras otro advertía: *“Nos robaron tanto que, nos robaron hasta el miedo”*. 
+Vemos en la fotografía que muestra a los manifestantes ondeando la bandera del pueblo Mapuche sobre la estatua del general Baquedano, en la plaza hoy conocida como de la dignidad, un conjunto complejo de relaciones sociales. 
+A pesar de la sencillez y la brevedad de los textos, la connotación social es muy profunda. Una lucha de clases se hace evidente y salta ante nuestros ojos de manera súbita desde diferentes frentes.
+
+En las calles de Santiago, una ciudad capital en el epicentro del fenómeno que algunos historiadores especializados en economía han denominado “el milagro económico chileno”, convergen los más diversos segmentos de la sociedad y se plasman uno a uno los mensajes de la desesperanza: *“Nunca más tendrán la comodidad de nuestro silencio”* planteaba un mensaje, mientras otro advertía: *“Nos robaron tanto que, nos robaron hasta el miedo”*. 
 
 Uno de los rasgos más significativos que colocan a este movimiento social con la trascendencia histórica adquirida es su representación geográfica, ya que, si bien otros movimientos sociales del siglo XX tuvieron expresiones de mayor violencia, generalmente se confinaban a una localización regional, lo cual, definitivamente no fué el caso del movimiento de octubre de 2019.
 
 
 ![Fuente: Cartel sobre triplay protector en fachada de negocio. Ciudad de Temuco, Region de la Araucanía. Martes 12 de noviembre 2019.](images/IMG_1593.jpg){width=100%}
 
-Las raíces del movimiento encuentran su gestación varias décadas atrás con actores políticos que hoy en día figuran al frente del gobierno chileno por ejemplo, si consideramos la trayectoria del actual presidente del país Gabriel Boric que sucedió a Sebastián Piñera en el mandato a partir de 2022, vemos un jóven líder que desde la presidencia de la federación de estudiantes de la Universidad de Chile en 2011, impulsó la defensa de la educación pública, precisamente uno de los temas sociales más sensibles relacionados al modelo constitucional de la dictadura el cual,  dirigió el énfasis del sistema educativo a una estructura privada, con un papel del estado minoritario, lo que resultó a la larga en una carga financiera para el alumnado y un elemento que se suma al abaníco de demandas y reclamos que avivaron el descontento social de “El despertar”.
+Las raíces del movimiento encuentran su gestación varias décadas atrás con actores políticos que hoy en día figuran al frente del gobierno chileno. Por ejemplo, si consideramos la trayectoria del actual presidente del país Gabriel Boric que sucedió a Sebastián Piñera en el mandato a partir de 2022, vemos un jóven líder que desde la presidencia de la federación de estudiantes de la Universidad de Chile en 2011, impulsó la defensa de la educación pública, precisamente uno de los temas sociales más sensibles relacionados al modelo constitucional de la dictadura, el cual, dirigió el énfasis del sistema educativo a una estructura privada, con un papel del estado minoritario, lo que resultó a la larga en una carga financiera para el alumnado y un elemento que se suma al abaníco de demandas y reclamos que avivaron el descontento social de “El despertar”.
 
 La primera década del siglo XX, fué testigo ya de síntomas tempranos de descontento social, en áreas sensibles como en el tema educativo tras la implementación del modelo de notable orientación privatizadora proveniente de las ideas de la dictadura. 
 
-Por ejemplo, en 2006, el movimiento conocido como” la marcha de los pingüinos” atribuido en referencia a los miles de escolares de nivel medio (cuyo uniforme de tono monocromático justamente es popularmente conocido como uniforme pingüino) que organizadamente marcharon para evidenciar los rasgos que caracterizaban una crisis en el sistema educativo chileno, con una mayoritaria injerencia privada en áreas sustantivas y con un rol del Estado limitado a las tareas de “regulador y protector”.
+Por ejemplo, en 2006, el movimiento conocido como” la marcha de los pingüinos” atribuido en referencia a los miles de escolares de nivel medio ^[cuyo uniforme de tono monocromático justamente es popularmente conocido como uniforme pingüino] que organizadamente marcharon para evidenciar los rasgos que caracterizaban una crisis en el sistema educativo chileno, con una mayoritaria injerencia privada en áreas sustantivas y con un rol del Estado limitado a las tareas de “regulador y protector”.
 
 
 Este movimiento, marcó un hito sobre el tema educativo, si bien el epicentro fue Santiago, la capital del país, el mensaje generó eco en las diversas regiones de Chile y solo 5 años después, en 2011, nuevamente se enciende la mecha del reclamo social  a partir del tema estudiantil, esta vez con el movimiento cuyos líderes hoy figuran como parte central en la estructura de gobierno con Gabriel Boric al frente, actual presidente de la nación sudamericana y expresidente de la  Federación de Estudiantes de la Universidad de Chile (FECh), durante el movimiento estudiantil de 2011, Camilla Vallejo actual Ministra Secretaria General de Gobierno de Chile, vicepresidenta de la (FECh) durante el movimiento estudiantil del 2011,  Giorgio Jackson  actual ministro de Desarrollo Social y Familia de Chile y presidente de la Federación de Estudiantes de la Universidad Católica de Chile (FEUC) durante el movimiento estudiantil de 2011. 
@@ -57,11 +61,11 @@ Basta una mirada cautelosa sobre expresiones artísticas como la música, temas 
 
 A continuación, un breve extracto de la citada obra que se convirtió en un himno popular para la juventud de la época en Chile y que revivió en las calles del estallido en octubre de 2019.
 
->A otros le enseñaron secretos que a ti no
->A otros dieron de verdad esa cosa llamada educación
-> Ellos pedían esfuerzo, ellos pedían dedicación
-> ¿Y para qué?
-> Para terminar, bailando y pateando piedras.
+>*A otros le enseñaron secretos que a tí no*
+>*A otros dieron de verdad esa cosa llamada educación*
+> *Ellos pedían esfuerzo, ellos pedían dedicación*
+> *¿Y para qué?*
+> *Para terminar, bailando y pateando piedras.*
 <div style="text-align: right"> --- Jorge González [Escuchar aquí](https://www.youtube.com/watch?v=uPJrZFBiy-A)</div> 
 
 Es en estas expresiones culturales, escondidas a menudo, entre el bullicio de la rutina y el frenesí de la cotidianidad, que podemos recrear a un pueblo con hambre y sed de justicia como diría, en el contexto mexicano, el político sonorense Luis Donaldo Colosio Murrieta. [@colosiomurrietaEsteFueDiscurso1994].
@@ -76,17 +80,29 @@ De igual manera personajes públicos se sumaron a la protesta con expresiones ra
 
 ![Fuente:  Cartel sobre pared, Ciudad de Santiago. noviembre 2019. “Teta Libre Patria Libre”, “En Chile torturan violan y matan”.”](images/IMG_2385.jpg){width=100%}
 
-En conjunto a la movilización en las calles,  la organización social buscó informar sobre  campañas mediáticas y el manejo de la información. 
+
+Las voces de protesta  emanaron desde los más diversos segmentos de actividad social, con referencia a educación, el sistema de pensiones, salarios, condiciones de acceso a vivienda, transporte público. El ábanico de incorformidad sólo se amplió a medida que el movimiento se difundió. En conjunto a las movilizaciones, diversos paros laborales en instituciones públicas se adirieron en solidaridad. 
+
+![Fuente:  Mensaje en fachada negocio, Santiago, región metropolitana, noviembre 2019. "De todas nuestras necesidades han hecho un negocio.](images/IMG_2293.jpg){width=100%}
+
+
+![Fuente: Mensaje en fachada oficinas públicas. Temuco, región de la Araucanía, noviembre 2019. ](images/IMG_1469.jpg){width=100%}
+
+La siguiente imagen captura las muestras de adesión solidaria al movimiento por parte de organismos locales.  
+
+![Fuente: Mensaje en fachada oficinas de la corporación nacional de desarrolo indígena. Temuco, región de la Araucanía, noviembre 2019. ](images/IMG_1237.jpg){width=100%}
+
+El sentimiento social fue en asenso, esparciéndose de forma rápida durante los primeros dias del movimiento. Así, a casi mil kilometros de distancia en regiones alejadas de la capital como lo es la región de los Ríos, en la ciudad de Valdivia, se presentaban simultáneamente muestras álgidas del descontento. 
 
 ![Fuente:  Calle Pedro Valdivia, edificio de la municipalidad, Ciudad de Valdivia, región de los ríos, zona centro. miércoles 13 de noviembre “hasta que la dignidad sea costumbre”, “Revolución”.](images/IMG_1970.jpg){width=100%}
 
-El sentimiento social fue en asenso, esparciendose de forma rápida durante los primeros dias del movimiento. Así, a casi mil kilometros de distancia en regiones alejadas de la capital como lo es la región de los Ríos, se presentaban muestras álgidas del descontento. 
-
 En Valdivía la capital de la región de los ríos, vemos en pleno edificio de la municipalidad una contundente expresión que muestra el estado de urgencia de las manifestaciones y en la parte superior de la pared es posible observar un cartel con una imagen del presidente Sebastián Piñera con un ojo tapado y el otro marcado con tinta roja simulando el sangrado en representación de las consecuencias de las violaciones de derechos humanos cometidas por la fuerza pública en contra de los manifestantes, mismos que fueron documentados por diversas investigaciones independientes [@cortesVulneracionDerechosHumanos2021] incluidas organizaciones como anministia internacional, a través del reporte: Ojos sobre Chile [@amnistiainternacionalOjosSobreChile2020].
 
-![Fuente: Cartel sobre pared en parroquia San Francisco de Alameda. Calle San Francisco esquina con Av. Libertador Bernardo O´Higgins Santiago, novimebre 2019. “Abusodores pedófilos”.](images/IMG_2311.jpg){width=100%}
 
 El grado de indignación y escala de la protesta por medios escritos en contra del sistema se observa también por la recurrente creación de carteles sobre las paredes de edificios públicos y particularmente llama la atención sobre centros religiosos de diversas denominaciones, como es el caso de la parroquía: San Francisco de  Alameda, una edificación que data del periodo colonial y es uno de los recintos católicos más antiguos del país. 
+
+
+![Fuente: Cartel sobre pared en parroquia San Francisco de Alameda. Calle San Francisco esquina con Av. Libertador Bernardo O´Higgins Santiago, novimebre 2019. “Abusodores pedófilos”.](images/IMG_2311.jpg){width=100%}
 
 Ubicada en pleno centro de la ciudad de Santiago, en las inmediaciones del Palacio de la moneda, sobre la avenida Libertador Bernardo O´Higgins^[Esta avenida, ya tradicional en la ciudad de Santiago, es una arteria vial de reunión principal y confluencia de los diversos sectores de la sociedad], fué testigo, aúnque no del todo mudo, de la gran movilización de la población civil durante el estallido en octubre de 2019.
 
@@ -303,8 +319,25 @@ En el siguiente cartel observamos una expresión de las campañas que se organiz
 Al centro de la imagen también se observa el código **1312** que representa el acrónimo inglés ACAB, (*All Cops Are Bastards*), una referencia al descontento sobre la respuesta gubernamental ante las manifestaciones y marchas oranizadas a lo largo del territorio chileno. 
 
 
+Ciertamente en medio de la revuelta, diversos grupos con grados de formación política desigual se enontraron y es perceptible la presencia de un componente radical con importante despliegue de información, el siguiente cartel resume 7 apuntos sobre el conflicto desde la perspectiva de uno de estos grupos que participaron en el movimiento.
 
 
+![Fuente: Cartel en kiosco,  ](images/IMG_2423.jpg){width=100%}
+
+Todo el cartel es una pieza interesante de propaganda por la carga ideológica que se observa, resaltan los puntos 5, 6 y 7 que tienen un perfil discursivo que por una parte retoman elementos del periodo socialista de Allende sobre todo considerando la noción de dignidad y por otra incorporan un componente de abierta confrontación.
 
 
+**Apunte N°5**
+
+> *La dignidad de nuestras vidas no nos será entregada. La belleza de una vida digna de ser vivida, llega en aquel momento en el que la asumímos como nuestra y somos cacapces de defendera.* 
+
+ **Apunte N°6**
+
+> *Apostar por la vida misma, negarse a agachar la cabeza, significa entrar en un territorio donde la distinción entre vida y guerra, se difumina, que el conflicto sea la existencia.*
    
+**Apunte N°7**
+
+>Ante esto, les dejamos un pequeño recordatorio: 
+>*Las balas no se devuelven solas*.
+
+Con el ejemplo anterior, es claro el grado de infiltración de posturas radicales en el movimiento, en donde la vía del diálogo y la razón son relegados por un llamado a la violencia, misma que, como pronto descubrieron muchos jóvenes que adoptarón esta postura, es amenudo un camino que lleva a un juego de suma cero. 
